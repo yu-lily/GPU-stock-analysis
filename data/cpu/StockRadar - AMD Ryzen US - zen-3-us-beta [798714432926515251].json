@@ -1,0 +1,4101 @@
+{
+  "guild": {
+    "id": "780179350682599445",
+    "name": "StockRadar",
+    "iconUrl": "https://cdn.discordapp.com/icons/780179350682599445/458ae72b3c3539510f0306af38915a3c.png"
+  },
+  "channel": {
+    "id": "798714432926515251",
+    "type": "GuildNews",
+    "category": "AMD Ryzen US",
+    "name": "zen-3-us-beta",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "798836750210301972",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:52:02.919+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798836750297726976",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:52:02.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798836917042675752",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:52:42.695+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798837300314112010",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:54:14.074+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798837362884345866",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:54:28.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798837521659985940",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:55:06.847+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798838395551350845",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:58:35.199+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798838615954030612",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:59:27.747+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798838732962791454",
+      "type": "Default",
+      "timestamp": "2021-01-13T08:59:55.644+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "783417213151084605",
+            "name": "harold",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/783417213151084605.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799031799573250088",
+      "type": "Default",
+      "timestamp": "2021-01-13T21:47:06.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799031827720437820",
+      "type": "Default",
+      "timestamp": "2021-01-13T21:47:13.022+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799031902303420436",
+      "type": "Default",
+      "timestamp": "2021-01-13T21:47:30.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799032014127890453",
+      "type": "Default",
+      "timestamp": "2021-01-13T21:47:57.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799033974218686464",
+      "type": "Default",
+      "timestamp": "2021-01-13T21:55:44.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799034101688434728",
+      "type": "Default",
+      "timestamp": "2021-01-13T21:56:15.178+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD71",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f971.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44e.png"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799054997773615124",
+      "type": "Default",
+      "timestamp": "2021-01-13T23:19:17.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799055038882119681",
+      "type": "Default",
+      "timestamp": "2021-01-13T23:19:26.994+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799055219832127529",
+      "type": "Default",
+      "timestamp": "2021-01-13T23:20:10.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799055580354445332",
+      "type": "Default",
+      "timestamp": "2021-01-13T23:21:36.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799057011965820958",
+      "type": "Default",
+      "timestamp": "2021-01-13T23:27:17.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799073343394283520",
+      "type": "Default",
+      "timestamp": "2021-01-14T00:32:11.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665\nAMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44e.png"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799073453470646292",
+      "type": "Default",
+      "timestamp": "2021-01-14T00:32:37.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665\nAMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3.png"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f5.png"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "❕",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2755.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "783804469287977012",
+            "name": "nvidia",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/783804469287977012.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "783692160875888672",
+            "name": "bleck",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/783692160875888672.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799080316190720031",
+      "type": "Default",
+      "timestamp": "2021-01-14T00:59:53.574+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "780900860075049001",
+            "name": "wot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900860075049001.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "782972198704381984",
+            "name": "lmao3d",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/782972198704381984.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "699215458553036811",
+            "name": "lmao",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/699215458553036811.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799381729508589588",
+      "type": "Default",
+      "timestamp": "2021-01-14T20:57:36.109+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799381756229976124",
+      "type": "Default",
+      "timestamp": "2021-01-14T20:57:42.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799382055267205130",
+      "type": "Default",
+      "timestamp": "2021-01-14T20:58:53.776+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "798830513045372970",
+            "name": "techtip",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/798830513045372970.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799797806424260678",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:30:56.576+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fc.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f4.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ec.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799797870198259782",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:31:11.781+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799798074738343956",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:32:00.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE20",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f620.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799798250021978142",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:32:42.338+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799798433853865994",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:33:26.167+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799798859408080936",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:35:07.627+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "780900870409814046",
+            "name": "doubt",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900870409814046.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "736438249278537778",
+            "name": "REE",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/736438249278537778.gif"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "780900860075049001",
+            "name": "wot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900860075049001.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799798999087054848",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:35:40.929+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799799277559087104",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:36:47.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799799511081287740",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:37:42.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799799739260207135",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:38:37.4+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799799774127456326",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:38:45.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799801863430995978",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:47:03.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❓",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "780900860075049001",
+            "name": "wot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900860075049001.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799802172161523743",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:48:17.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "181215433800548354",
+        "name": "MRizk",
+        "discriminator": "0970",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/181215433800548354/ea93153176161e28e333165b5d404972.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fc.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDED",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ed.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1eb.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fa.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f0.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "800166514098962502",
+      "type": "Default",
+      "timestamp": "2021-01-17T00:56:03.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler\n$304.95\nhttps://www.amazon.com/dp/B08166SLDF/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800166666214309919",
+      "type": "Default",
+      "timestamp": "2021-01-17T00:56:39.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler\n$304.95\nhttps://www.amazon.com/dp/B08166SLDF/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800166939527610368",
+      "type": "Default",
+      "timestamp": "2021-01-17T00:57:44.766+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler\n$304.95\nhttps://www.amazon.com/dp/B08166SLDF/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF74",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f374.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF5E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f35e.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60b.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801247313036312616",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:30:45.883+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801247420368683057",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:31:11.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801247537171660801",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:31:39.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801247644345303080",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:32:04.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801249039617359892",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:37:37.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801254987187093556",
+      "type": "Default",
+      "timestamp": "2021-01-20T01:01:15.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801255205173592084",
+      "type": "Default",
+      "timestamp": "2021-01-20T01:02:07.515+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801258153726705684",
+      "type": "Default",
+      "timestamp": "2021-01-20T01:13:50.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801259254341566484",
+      "type": "Default",
+      "timestamp": "2021-01-20T01:18:12.912+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801260093634117652",
+      "type": "Default",
+      "timestamp": "2021-01-20T01:21:33.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801587380867563521",
+      "type": "Default",
+      "timestamp": "2021-01-20T23:02:04.372+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801587657155149864",
+      "type": "Default",
+      "timestamp": "2021-01-20T23:03:10.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "782278097298784257",
+            "name": "lisasu2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/782278097298784257.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "798830513045372970",
+            "name": "techtip",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/798830513045372970.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "780900860075049001",
+            "name": "wot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900860075049001.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "783417213151084605",
+            "name": "harold",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/783417213151084605.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801590537688973332",
+      "type": "Default",
+      "timestamp": "2021-01-20T23:14:37.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "781869423413690419",
+            "name": "doubt",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/781869423413690419.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801590874387120171",
+      "type": "Default",
+      "timestamp": "2021-01-20T23:15:57.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f629.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "781869423413690419",
+            "name": "doubt",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/781869423413690419.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDED1",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f6d1.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "780900860075049001",
+            "name": "wot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900860075049001.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801591268442243102",
+      "type": "Default",
+      "timestamp": "2021-01-20T23:17:31.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801591383634083841",
+      "type": "Default",
+      "timestamp": "2021-01-20T23:17:58.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801591709321789450",
+      "type": "Default",
+      "timestamp": "2021-01-20T23:19:16.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801979821219381268",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:01:29.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801980096923566082",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:02:35.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "798830513045372970",
+            "name": "techtip",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/798830513045372970.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801980266913595453",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:03:15.705+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801980486008176670",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:04:07.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801980598037643274",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:04:34.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801981025412317218",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:06:16.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801982185942810691",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:10:53.237+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801982292532789278",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:11:18.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801982399269175316",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:11:44.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801982561521500200",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:12:22.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801983846115442728",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:17:29.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801995564505497620",
+      "type": "Default",
+      "timestamp": "2021-01-22T02:04:02.935+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801996241420288010",
+      "type": "Default",
+      "timestamp": "2021-01-22T02:06:44.324+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801998495312511036",
+      "type": "Default",
+      "timestamp": "2021-01-22T02:15:41.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802000772975689769",
+      "type": "Default",
+      "timestamp": "2021-01-22T02:24:44.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802000993613119569",
+      "type": "Default",
+      "timestamp": "2021-01-22T02:25:37.335+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802004666665140254",
+      "type": "Default",
+      "timestamp": "2021-01-22T02:40:13.059+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802011487182782494",
+      "type": "Default",
+      "timestamp": "2021-01-22T03:07:19.197+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802017387963875351",
+      "type": "Default",
+      "timestamp": "2021-01-22T03:30:46.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802020851091636244",
+      "type": "Default",
+      "timestamp": "2021-01-22T03:44:31.727+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802023783984529440",
+      "type": "Default",
+      "timestamp": "2021-01-22T03:56:10.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802030933754642483",
+      "type": "Default",
+      "timestamp": "2021-01-22T04:24:35.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802033121028734996",
+      "type": "Default",
+      "timestamp": "2021-01-22T04:33:17.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802034329416368128",
+      "type": "Default",
+      "timestamp": "2021-01-22T04:38:05.21+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802036094052335617",
+      "type": "Default",
+      "timestamp": "2021-01-22T04:45:05.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802036473956007946",
+      "type": "Default",
+      "timestamp": "2021-01-22T04:46:36.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802040102201196594",
+      "type": "Default",
+      "timestamp": "2021-01-22T05:01:01.549+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802326868983939132",
+      "type": "Default",
+      "timestamp": "2021-01-23T00:00:32.078+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802326914512584715",
+      "type": "Default",
+      "timestamp": "2021-01-23T00:00:42.933+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802327022721564712",
+      "type": "Default",
+      "timestamp": "2021-01-23T00:01:08.732+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802327024580296704",
+      "type": "Default",
+      "timestamp": "2021-01-23T00:01:09.175+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803417161875193917",
+      "type": "Default",
+      "timestamp": "2021-01-26T00:12:58.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5900X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-Core 3.8 GHz Socket AM4 105W 100-100000063WOF Desktop Processor\n$449.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-7-5800x/p/N82E16819113665?Item=N82E16819113665\nAMD Ryzen 5 5600X 6-Core 3.7 GHz Socket AM4 65W 100-100000065BOX Desktop Processor\n$299.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666\nAMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor\n$799.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-9-5950x/p/N82E16819113663?Item=N82E16819113663\nAMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor\n$549.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664?Item=N82E16819113664",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "780900860075049001",
+            "name": "wot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900860075049001.png"
+          },
+          "count": 29
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44e.png"
+          },
+          "count": 21
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "❓",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f980.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "804462495649497128",
+      "type": "Default",
+      "timestamp": "2021-01-28T21:26:45.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US @Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler Black, XX-Large\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "780900859051638798",
+            "name": "this",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900859051638798.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "804487640442994718",
+      "type": "Default",
+      "timestamp": "2021-01-28T23:06:40.139+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5900X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor\n$549.99\u00A0–\nhttps://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664?Item=N82E16819113664",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a9.png"
+          },
+          "count": 46
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "❓",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f629.png"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "❔",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2754.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "780900860075049001",
+            "name": "wot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900860075049001.png"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f5.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "777499775738052658",
+            "name": "trollkillher",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/777499775738052658.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1eb.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD70️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f170.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f0.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "783804469287977012",
+            "name": "nvidia",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/783804469287977012.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fe.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "805224766989795358",
+      "type": "Default",
+      "timestamp": "2021-01-30T23:55:44.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler Black, XX-Large\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805224829384130570",
+      "type": "Default",
+      "timestamp": "2021-01-30T23:55:59.679+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US @Ryzen 5600X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler Black, XX-Large\n                        \n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "780900857624526908",
+            "name": "sadcat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900857624526908.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8-1f1e6.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "805225726843289600",
+      "type": "Default",
+      "timestamp": "2021-01-30T23:59:33.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler Black, XX-Large\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "780900860075049001",
+            "name": "wot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/780900860075049001.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDEAB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f6ab.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "805418151235682305",
+      "type": "Default",
+      "timestamp": "2021-01-31T12:44:11.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler Black, XX-Large\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805418235914354689",
+      "type": "Default",
+      "timestamp": "2021-01-31T12:44:31.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler Black, XX-Large\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805485416768864256",
+      "type": "Default",
+      "timestamp": "2021-01-31T17:11:28.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler Black, XX-Large\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805485717785411605",
+      "type": "Default",
+      "timestamp": "2021-01-31T17:12:40.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ryzen 5800X - US",
+      "author": {
+        "id": "798717291486904325",
+        "name": "StockRadar - ALERT",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/798717291486904325/4a896092fb6542a0ab9a94e3b4a6ffef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The following products were found in stock",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor Without Cooler Black, XX-Large\n$449.00\nhttps://www.amazon.com/dp/B0815XFSGK/",
+          "color": "#58FF79",
+          "footer": {
+            "text": "Did we help? We offer this service for free but we appreciate any donations no matter how small to help us cover our hosting expenses. PayPal.me/mrizk21",
+            "iconUrl": "https://cdn.discordapp.com/emojis/610642121455566860.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 100
+}

@@ -1,0 +1,5357 @@
+{
+  "guild": {
+    "id": "755412431186165781",
+    "name": "ATR",
+    "iconUrl": "https://cdn.discordapp.com/icons/755412431186165781/59add5d2f34eb55c678dfcf9d2ed2578.png"
+  },
+  "channel": {
+    "id": "778456042794385408",
+    "type": "GuildNews",
+    "category": "Tracking NAVI",
+    "name": "tracking-navi-6900xt",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "785863479012753458",
+      "type": "Default",
+      "timestamp": "2020-12-08T13:40:54.034+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt \nNewegg direct links:\n\nAsrock Radeon 6900XT\n\nhttps://geni.us/ca9BHI\n\n\n\nSapphire Radeon 6900XT (20GB???)\n\nhttps://geni.us/AxT0\n\n\nGigabyte Radeon 6900XT\n\nhttps://geni.us/r5WAZ\n\n\n\nXFX Radeon 6900XT\n\nhttps://geni.us/rndAvK\n\n\n\nPowerColor Radeon 6900XT\n\nhttps://geni.us/CpkA\n\n\n\nMSI Radeon 6900XT\n\nhttps://geni.us/9PUY2kY",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785864689078501447",
+      "type": "Default",
+      "timestamp": "2020-12-08T13:45:42.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This search string will probably™️ work. GL bois. https://geni.us/JhQc",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785865068268355595",
+      "type": "Default",
+      "timestamp": "2020-12-08T13:47:12.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<https://www.amd.com/en/direct-buy/us>\n<https://www.amd.com/en/where-to-buy/radeon-rx-6000-series-graphics>\n<https://www.amd.com/en/shop/ca/Graphics%20Cards?keyword=&sort_by=vision_date>",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785868281898467339",
+      "type": "Default",
+      "timestamp": "2020-12-08T13:59:59.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "NEWEGG LINKS LIVE",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785868294800015390",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:00:02.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785870682390003712",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:09:31.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt https://geni.us/02cPUHK NOT LIVE YET - BB",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785873267718094859",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:19:47.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Radeon RX 6900 XT DirectX 12 AXRX 6900XT 16GBD6-M2DHC Video Card",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-m2dhc/p/N82E16814131774",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785874387717849129",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:24:14.872+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt https://www.amd.com/en/direct-buy/us",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785879874216525864",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:46:02.955+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT DirectX 12 RX6900XT,  ASRock B550 TAICHI AM4 AMD ATX Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211206&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1271.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "771446037416116334",
+            "name": "notlikesteve",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/771446037416116334.png"
+          },
+          "count": 78
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785885651992182847",
+      "type": "Default",
+      "timestamp": "2020-12-08T15:09:00.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6900xt live on BB, hit add to cart DO NOT REFRESH https://geni.us/j1y4F",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785908076996853761",
+      "type": "Default",
+      "timestamp": "2020-12-08T16:38:07.022+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Radeon RX 6900 XT DirectX 12 AXRX 6900XT 16GBD6-M2DHC Video Card",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-m2dhc/p/N82E16814131774",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787107262190845954",
+      "type": "Default",
+      "timestamp": "2020-12-12T00:03:15.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE Radeon RX 6900 XT DirectX 12 21308-01-20G Video Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-21308-01-20g/p/N82E16814202393",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787109062411681843",
+      "type": "Default",
+      "timestamp": "2020-12-12T00:10:24.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6, AMD RDNA2 (RX6900XT PGD 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6900xt-pgd-16g/p/N82E16814930052",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1209.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787134234896236564",
+      "type": "Default",
+      "timestamp": "2020-12-12T01:50:25.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 AMD Radeon RX 6900 XT ULTRA Gaming Graphics Card with 16GB GDDR6, HDMI 2,1, 2 x DP, USB-C, AMD RDNA 2 (RX-69XTACUD9)",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150846",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1099.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788209596569092096",
+      "type": "Default",
+      "timestamp": "2020-12-15T01:03:32.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT Gaming Graphic Card 16GB GDDR6 VRAM AMD RDNA2",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6900-xt-rx6900xt-16g/p/N82E16814930051",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788572670756126760",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:06:15.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Radeon RX 6900 XT DirectX 12 AXRX 6900XT 16GBD6-M2DHC Video Card",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-m2dhc/p/N82E16814131774",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788572672141164554",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:06:16.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE Radeon RX 6900 XT DirectX 12 21308-01-20G Video Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-21308-01-20g/p/N82E16814202393",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788933561897189416",
+      "type": "Default",
+      "timestamp": "2020-12-17T01:00:18.833+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 AMD Radeon RX 6900 XT ULTRA Gaming Graphics Card with 16GB GDDR6, HDMI 2,1, 2 x DP, USB-C, AMD RDNA 2 (RX-69XTACUD9)",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacud9/p/N82E16814150846",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1106.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789223950872739901",
+      "type": "Default",
+      "timestamp": "2020-12-17T20:14:12.96+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-2dhce-oc/p/N82E16814131775",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1189.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789270377796730930",
+      "type": "Default",
+      "timestamp": "2020-12-17T23:18:42.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1209.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296557170098247",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:43.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE Radeon RX 6900 XT DirectX 12 21308-01-20G Video Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-21308-01-20g/p/N82E16814202393",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296560399712297",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:44.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6, AMD RDNA2 (RX6900XT PGD 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6900xt-pgd-16g/p/N82E16814930052",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1209.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789297630974181377",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:06:59.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE Radeon RX 6900 XT DirectX 12 GV-R69XT-16GC-B 16GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card + GIGABYTE GP-P750GM",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211582&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1209.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789300020650311731",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:16:29.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 AMD Radeon RX 6900 XT ULTRA Gaming Graphics Card with 16GB GDDR6, HDMI 2,1, 2 x DP, USB-C, AMD RDNA 2 (RX-69XTACUD9)",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150846",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1099.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658804148371456",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:10.06+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE Radeon RX 6900 XT DirectX 12 GV-R69XT-16GC-B 16GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card + GIGABYTE GP-P750GM",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211582&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1209.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790747750617841704",
+      "type": "Default",
+      "timestamp": "2020-12-22T01:09:15.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MSI Radeon RX 6900 XT 16G 16GB 256-Bit GDDR6, OLOy WarHawk RGB 16GB (2 x 8GB) DDR4 3000 (PC4 24000) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4212392&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1144.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790975963789393950",
+      "type": "Default",
+      "timestamp": "2020-12-22T16:16:05.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/compare?skus=6438943,6439000,6438942,6438941",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791100595377012736",
+      "type": "Default",
+      "timestamp": "2020-12-23T00:31:19.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Radeon RX 6900 XT DirectX 12 AXRX 6900XT 16GBD6-M2DHC Video Card",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-m2dhc/p/N82E16814131774",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462885968707626",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:56.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MSI Radeon RX 6900 XT 16G 16GB 256-Bit GDDR6, OLOy WarHawk RGB 16GB (2 x 8GB) DDR4 3000 (PC4 24000) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4212392",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1144.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791699575668473866",
+      "type": "Default",
+      "timestamp": "2020-12-24T16:11:27.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt https://www.amazon.com/ASUS-Graphics-DisplayPort-All-Aluminum-Reinforced/dp/B08R81J62G thanks @Oaky",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "269680722741166090",
+          "name": "Oaky",
+          "discriminator": 6969,
+          "nickname": "Oaky",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "793638635520917505",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:36:35.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE Radeon RX 6900 XT DirectX 12 21308-01-20G 16GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202393",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1079.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794008599445241887",
+      "type": "Default",
+      "timestamp": "2020-12-31T01:06:42.074+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE Radeon RX 6900 XT DirectX 12 21308-01-20G 16GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202393",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1079.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794009269632106496",
+      "type": "Default",
+      "timestamp": "2020-12-31T01:09:21.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MSI Radeon RX 6900 XT RX 6900 XT 16G 16GB 256-Bit GDDR6 Video Card",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814137618",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1079.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796536496026026035",
+      "type": "Default",
+      "timestamp": "2021-01-07T00:31:39.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS Radeon RX 6900 XT DirectX 12 RX6900XT-16G 16GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready SLI Support Video Card",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814126481",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1059.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796778332120416266",
+      "type": "Default",
+      "timestamp": "2021-01-07T16:32:37.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt https://www.amd.com/en/direct-buy/5458372200/us",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796793834856120360",
+      "type": "Default",
+      "timestamp": "2021-01-07T17:34:13.943+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG Strix Radeon RX 6900 XT DirectX 12 Ultimate ROG-STRIX-LC-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6900-xt-rog-strix-lc-rx6900xt-o16g-gaming/p/N82E16814126489",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1509.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796816781267959809",
+      "type": "Default",
+      "timestamp": "2021-01-07T19:05:24.794+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG Strix Radeon RX 6900 XT DirectX 12 Ultimate ROG-STRIX-LC-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6900-xt-rog-strix-lc-rx6900xt-o16g-gaming/p/N82E16814126489",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1509.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796836374317760592",
+      "type": "Default",
+      "timestamp": "2021-01-07T20:23:16.141+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG Strix Radeon RX 6900 XT DirectX 12 Ultimate ROG-STRIX-LC-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6900-xt-rog-strix-lc-rx6900xt-o16g-gaming/p/N82E16814126489",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1509.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 0,
+            "height": 0
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796836420856709151",
+      "type": "Default",
+      "timestamp": "2021-01-07T20:23:27.237+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG Strix Radeon RX 6900 XT DirectX 12 Ultimate ROG-STRIX-LC-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6900-xt-rog-strix-lc-rx6900xt-o16g-gaming/p/N82E16814126489",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1509.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796899208317632613",
+      "type": "Default",
+      "timestamp": "2021-01-08T00:32:56.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS Radeon RX 6900 XT DirectX 12 RX6900XT-16G 16GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready SLI Support Video Card",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814126481",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1059.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798226889633693748",
+      "type": "Default",
+      "timestamp": "2021-01-11T16:28:40.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG Strix Radeon RX 6900 XT DirectX 12 Ultimate ROG-STRIX-LC-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6900-xt-rog-strix-lc-rx6900xt-o16g-gaming/p/N82E16814126489",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1509.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798549070364278784",
+      "type": "Default",
+      "timestamp": "2021-01-12T13:48:54.699+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6, AMD RDNA2 $1270 @ ebay https://www.ebay.com/itm/ASRock-Radeon-RX-6900-XT-PHANTOM-GAMING-D-Graphics-Card-16GB-GDDR6-AMD-RDNA2-R/383899400698",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6,...",
+          "url": "https://www.ebay.com/itm/ASRock-Radeon-RX-6900-XT-PHANTOM-GAMING-D-Graphics-Card-16GB-GDDR6-AMD-RDNA2-R/383899400698",
+          "timestamp": null,
+          "description": "Radeon RX 6900 XT. Learn more aboutASRock PHANTOM GAMING D 16G OC. PHANTOM GAMING D 16G OC. DirectX 12 Ultimate. Max GPU Length. Form Factor. Power Connector. Triple Fans.",
+          "thumbnail": {
+            "url": "https://i.ebayimg.com/images/g/j9IAAOSwEBdf~V9q/s-l400.jpg",
+            "width": 400,
+            "height": 300
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799767710280056882",
+      "type": "Default",
+      "timestamp": "2021-01-15T22:31:21.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SAPPHIRE 11308-01-20G NITRO+ AMD RADEON RX 6900 XT @alert-rx-6900xt  https://nerdspeak.net/b08qqfw9ys/",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799767830060597258",
+      "type": "Default",
+      "timestamp": "2021-01-15T22:31:49.654+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "799767827560923156",
+          "url": "https://cdn.discordapp.com/attachments/778456042794385408/799767827560923156/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 4701
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799792559689826374",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:10:05.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SAPPHIRE 11308-01-20G NITRO+ AMD RADEON RX 6900 XT @alert-rx-6900xt  https://nerdspeak.net/b08qqfw9ys/",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sapphire 11308-01-20G Nitro+ AMD Radeon RX 6900 XT - NerdSpeak",
+          "url": "https://nerdspeak.net/b08qqfw9ys/",
+          "timestamp": null,
+          "description": "View Amazon.com Product Page View Amazon.com Offer Page Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on Amazon.com or other retailer’s website at the time of purchase will apply to the purchase of chosen product. It is the responsibility of ...",
+          "author": {
+            "name": "NS_Mark",
+            "url": "https://nerdspeak.net/author/nerdspeakadmin/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799792571000815616",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:10:08.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ITS BACK",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799801368457117796",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:45:05.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE Radeon RX 6900 XT DirectX 12 GV-R69XT-16GC-B 16GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card and GIGABYTE",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4214893&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG5**\n\n**PRICE**\n$1209.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhgLw6V7LzGstiICMRKhJHAtPGWzmwi0SDwt2ee=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800014047939657758",
+      "type": "Default",
+      "timestamp": "2021-01-16T14:50:12.571+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MSI Radeon RX 6900 XT RX 6900 XT 16G Video Card",
+          "url": "https://www.newegg.com/msi-radeon-rx-6900-xt-rx-6900-xt-16g/p/N82E16814137618",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1089.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800619265433534474",
+      "type": "Default",
+      "timestamp": "2021-01-18T06:55:07.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MSI Radeon RX 6900 XT RX 6900 XT 16G Video Card",
+          "url": "https://www.newegg.com/msi-radeon-rx-6900-xt-rx-6900-xt-16g/p/N82E16814137618",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1089.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800620601588842516",
+      "type": "Default",
+      "timestamp": "2021-01-18T07:00:26.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF Gaming Radeon RX 6900 XT TUF-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-tuf-rx6900xt-o16g-gaming/p/N82E16814126487",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1414.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800631808936902686",
+      "type": "Default",
+      "timestamp": "2021-01-18T07:44:58.27+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MSI Radeon RX 6900 XT RX 6900 XT 16G Video Card",
+          "url": "https://www.newegg.com/msi-radeon-rx-6900-xt-rx-6900-xt-16g/p/N82E16814137618",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1089.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800632520701247498",
+      "type": "Default",
+      "timestamp": "2021-01-18T07:47:47.968+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF Gaming Radeon RX 6900 XT TUF-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-tuf-rx6900xt-o16g-gaming/p/N82E16814126487",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1414.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801165917424975962",
+      "type": "Default",
+      "timestamp": "2021-01-19T19:07:19.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://store.asus.com/us/item/202101AM140000001/ @alert-rx-6900xt",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF GAMING AMD Radeon™ RX 6900 XT OC Edition Graphics Card (PC...",
+          "url": "https://store.asus.com/us/item/202101AM140000001/",
+          "timestamp": null,
+          "description": "ASUS TUF GAMING AMD Radeon™ RX 6900 XT OC Edition Graphics Card (PCIe 4.0 16GB GDDR6 HDMI 2.1 DisplayPort 1.4a Dual ball fan bearings all-aluminum shroud reinforced frame GPU Tweak II), Axial-tech fan design has been enhanced with more fan blades  a new rotation scheme, Dual ball fan bearings can last up to twice as long as sleeve bearing desig...",
+          "thumbnail": {
+            "url": "https://img-us1.asus.com/A/show/AW000706/2021/0114/AM0000001/202101AM140000001_16105647177277560075507.jpg",
+            "width": 2000,
+            "height": 2000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801176271399813211",
+      "type": "Default",
+      "timestamp": "2021-01-19T19:48:28.237+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847?Item=N82E16814150847 @alert-rx-6900xt",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801177454794113035",
+      "type": "Default",
+      "timestamp": "2021-01-19T19:53:10.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1499.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801198831748382769",
+      "type": "Default",
+      "timestamp": "2021-01-19T21:18:07.043+00:00",
+      "timestampEdited": "2021-01-19T21:18:19.595+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt https://store.asus.com/us/item/202101AM140000001/graphicscards-ASUS-TUF-GAMING-AMD-Radeon%E2%84%A2-RX-6900-XT-OC-Edition-Graphics-Card-%28PCIe-4.0%2C-16GB-GDDR6%2C-HDMI-2.1%2C-DisplayPort-1.4a%2C-Dual-ball-fan-bearings%2C-all-aluminum-shroud%2C-reinforced-frame%2C-GPU-Tweak-II%29",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF GAMING AMD Radeon™ RX 6900 XT OC Edition Graphics Card (PC...",
+          "url": "https://store.asus.com/us/item/202101AM140000001/graphicscards-ASUS-TUF-GAMING-AMD-Radeon%E2%84%A2-RX-6900-XT-OC-Edition-Graphics-Card-%28PCIe-4.0%2C-16GB-GDDR6%2C-HDMI-2.1%2C-DisplayPort-1.4a%2C-Dual-ball-fan-bearings%2C-all-aluminum-shroud%2C-reinforced-frame%2C-GPU-Tweak-II%29",
+          "timestamp": null,
+          "description": "Graphics Cards Desktops ASUS Official Store | Free Shipping and Financing Available ASUS TUF GAMING AMD Radeon™ RX 6900 XT OC Edition Graphics Card (PCIe 4.0 16GB GDDR6 HDMI 2.1 DisplayPort 1.4a Dual ball fan bearings all-aluminum shroud reinforced frame GPU Tweak II), Axial-tech fan design has been enhanced with more fan blades  a new rotation ...",
+          "thumbnail": {
+            "url": "https://img-us1.asus.com/A/show/AW000706/2021/0114/AM0000001/202101AM140000001_16105647177277560075507.jpg",
+            "width": 2000,
+            "height": 2000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801215405355302922",
+      "type": "Default",
+      "timestamp": "2021-01-19T22:23:58.499+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt It's back up: https://store.asus.com/us/item/202101AM140000001/graphicscards-ASUS-TUF-GAMING-AMD-Radeon%E2%84%A2-RX-6900-XT-OC-Edition-Graphics-Card-%28PCIe-4.0%2C-16GB-GDDR6%2C-HDMI-2.1%2C-DisplayPort-1.4a%2C-Dual-ball-fan-bearings%2C-all-aluminum-shroud%2C-reinforced-frame%2C-GPU-Tweak-II%29",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF GAMING AMD Radeon™ RX 6900 XT OC Edition Graphics Card (PC...",
+          "url": "https://store.asus.com/us/item/202101AM140000001/graphicscards-ASUS-TUF-GAMING-AMD-Radeon%E2%84%A2-RX-6900-XT-OC-Edition-Graphics-Card-%28PCIe-4.0%2C-16GB-GDDR6%2C-HDMI-2.1%2C-DisplayPort-1.4a%2C-Dual-ball-fan-bearings%2C-all-aluminum-shroud%2C-reinforced-frame%2C-GPU-Tweak-II%29",
+          "timestamp": null,
+          "description": "Graphics Cards Desktops ASUS Official Store | Free Shipping and Financing Available ASUS TUF GAMING AMD Radeon™ RX 6900 XT OC Edition Graphics Card (PCIe 4.0 16GB GDDR6 HDMI 2.1 DisplayPort 1.4a Dual ball fan bearings all-aluminum shroud reinforced frame GPU Tweak II), Axial-tech fan design has been enhanced with more fan blades  a new rotation ...",
+          "thumbnail": {
+            "url": "https://img-us1.asus.com/A/show/AW000706/2021/0114/AM0000001/202101AM140000001_16105647177277560075507.jpg",
+            "width": 2000,
+            "height": 2000
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801237224782823485",
+      "type": "Default",
+      "timestamp": "2021-01-19T23:50:40.656+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801240550426411018",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:03:53.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1419.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801241153789362176",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:06:17.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT Gaming Graphic Card 16GB GDDR6 VRAM AMD RDNA2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814930051",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$999.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801247906396766208",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:33:07.351+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE Radeon RX 6900 XT DirectX 12 GV-R69XT-16GC-B 16GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card and GIGABYTE",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4214893&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG5**\n\n**PRICE**\n$1209.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhgLw6V7LzGstiICMRKhJHAtPGWzmwi0SDwt2ee=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801271884914229329",
+      "type": "Default",
+      "timestamp": "2021-01-20T02:08:24.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE Radeon RX 6900 XT DirectX 12 GV-R69XT-16GC-B 16GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card and GIGABYTE",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4214893&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG5**\n\n**PRICE**\n$1209.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhgLw6V7LzGstiICMRKhJHAtPGWzmwi0SDwt2ee=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801278580666662923",
+      "type": "Default",
+      "timestamp": "2021-01-20T02:35:00.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MSI Radeon RX 6900 XT RX 6900 XT 16G Video Card",
+          "url": "https://www.newegg.com/msi-radeon-rx-6900-xt-rx-6900-xt-16g/p/N82E16814137618",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1089.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801279458412855317",
+      "type": "Default",
+      "timestamp": "2021-01-20T02:38:29.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF Gaming Radeon RX 6900 XT TUF-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-tuf-rx6900xt-o16g-gaming/p/N82E16814126487",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1414.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801361162197270568",
+      "type": "Default",
+      "timestamp": "2021-01-20T08:03:09.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801500423441481770",
+      "type": "Default",
+      "timestamp": "2021-01-20T17:16:32.106+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801513630675238963",
+      "type": "Default",
+      "timestamp": "2021-01-20T18:09:00.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Unknown",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-20T18:08:59.962+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "sapphire\u00A0rx6900xt\u00A0nitro+",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1799",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08QQFW9YS",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801514675346079754",
+      "type": "Default",
+      "timestamp": "2021-01-20T18:13:10.025+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-20T18:13:09.026+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "sapphire\u00A0rx6900xt\u00A0nitro+",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1799",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08QQFW9YS",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801518963141115915",
+      "type": "Default",
+      "timestamp": "2021-01-20T18:30:12.315+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-20T18:30:11.244+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801630079523749908",
+      "type": "Default",
+      "timestamp": "2021-01-21T01:51:44.525+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF Gaming Radeon RX 6900 XT TUF-RX6900XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-tuf-rx6900xt-o16g-gaming/p/N82E16814126487",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1414.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801676337890197514",
+      "type": "Default",
+      "timestamp": "2021-01-21T04:55:33.379+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801803445216477214",
+      "type": "Default",
+      "timestamp": "2021-01-21T13:20:38.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-21T13:20:37.864+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801845123255762994",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:06:14.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-21T16:06:14.631+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0rx6900xt\u00A0amd reference",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$999",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5458372200/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801845672596865105",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:08:25.919+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "801845670436536340",
+          "url": "https://cdn.discordapp.com/attachments/778456042794385408/801845670436536340/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 92860
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801847668803371079",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:16:21.852+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-21T16:16:21.708+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0rx6900xt\u00A0amd reference",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$999",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5458372200/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801848003752493147",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:17:41.71+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Grats Bois! If we helped you score a win today, please consider donating to support the ongoing expenses of this project. <3\n\n<https://patreon.com/averagetechreviews>\n<https://paypal.me/averagetechreviews>\nBTC: 3G4L1wy3SNj7QFVegijk71CM57bzDGm55S\nETH: 0x31fFB0b74602C93766239612937884b3c673C53c",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801897122777137172",
+      "type": "Default",
+      "timestamp": "2021-01-21T19:32:52.598+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-21T19:32:52.345+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801912565181448242",
+      "type": "Default",
+      "timestamp": "2021-01-21T20:34:14.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-21T20:34:14.131+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802182743067983932",
+      "type": "Default",
+      "timestamp": "2021-01-22T14:27:49.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-22T14:27:49.484+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "sapphire\u00A0rx6900xt\u00A0nitro+",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1449.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08QQFW9YS",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802197892843962428",
+      "type": "Default",
+      "timestamp": "2021-01-22T15:28:01.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-22T15:28:01.591+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "sapphire\u00A0rx6900xt\u00A0nitro+",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1449.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08QQFW9YS",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802219704059691010",
+      "type": "Default",
+      "timestamp": "2021-01-22T16:54:41.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/xfx-speedster-merc319-amd-radeon-rx-6900-xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6449499.p?skuId=6449499 @alert-rx-6900xt",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 AMD Radeon RX 6900 XT 16GB GDDR6 PCI Express ...",
+          "url": "https://www.bestbuy.com/site/xfx-speedster-merc319-amd-radeon-rx-6900-xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6449499.p?skuId=6449499",
+          "timestamp": null,
+          "description": "Shop XFX Speedster MERC319 AMD Radeon RX 6900 XT 16GB GDDR6 PCI Express 4.0 Gaming Graphics Card Black at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6449/6449499_sd.jpg",
+            "width": 1042,
+            "height": 1243
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802338670208090162",
+      "type": "Default",
+      "timestamp": "2021-01-23T00:47:25.709+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802341818448609300",
+      "type": "Default",
+      "timestamp": "2021-01-23T00:59:56.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-23T00:59:56.144+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802344413228695623",
+      "type": "Default",
+      "timestamp": "2021-01-23T01:10:14.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-23T01:10:14.772+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802349576740405308",
+      "type": "Default",
+      "timestamp": "2021-01-23T01:30:46.029+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802360479921733712",
+      "type": "Default",
+      "timestamp": "2021-01-23T02:14:05.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802397869515866112",
+      "type": "Default",
+      "timestamp": "2021-01-23T04:42:39.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802510466081488947",
+      "type": "Default",
+      "timestamp": "2021-01-23T12:10:05.037+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802528606437769217",
+      "type": "Default",
+      "timestamp": "2021-01-23T13:22:10.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802585326433730561",
+      "type": "Default",
+      "timestamp": "2021-01-23T17:07:33.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802601569219510284",
+      "type": "Default",
+      "timestamp": "2021-01-23T18:12:05.718+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802620156348989461",
+      "type": "Default",
+      "timestamp": "2021-01-23T19:25:57.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802769833392865342",
+      "type": "Default",
+      "timestamp": "2021-01-24T05:20:43.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802902176347324437",
+      "type": "Default",
+      "timestamp": "2021-01-24T14:06:36.042+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802924885847703583",
+      "type": "Default",
+      "timestamp": "2021-01-24T15:36:50.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6, AMD RDNA2 (RX6900XT PGD 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6900xt-pgd-16g/p/N82E16814930052",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1279.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803276185772883985",
+      "type": "Default",
+      "timestamp": "2021-01-25T14:52:46.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-25T14:52:46.598+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803278805430304788",
+      "type": "Default",
+      "timestamp": "2021-01-25T15:03:11.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-25T15:03:11.116+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803399729533812747",
+      "type": "Default",
+      "timestamp": "2021-01-25T23:03:41.966+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-2dhce-oc/p/N82E16814131775",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1559.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803400002726658078",
+      "type": "Default",
+      "timestamp": "2021-01-25T23:04:47.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6, AMD RDNA2 (RX6900XT PGD 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6900xt-pgd-16g/p/N82E16814930052",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1279.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803416965308743700",
+      "type": "Default",
+      "timestamp": "2021-01-26T00:12:11.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1429.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803416970506403860",
+      "type": "Default",
+      "timestamp": "2021-01-26T00:12:12.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803550705331077150",
+      "type": "Default",
+      "timestamp": "2021-01-26T09:03:37.401+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T09:03:37.036+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "sapphire\u00A0rx6900xt\u00A0nitro+",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08QQFW9YS",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803550863405744128",
+      "type": "Default",
+      "timestamp": "2021-01-26T09:04:15.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T09:04:14.992+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "powercolor\u00A0rx6900xt\u00A0amd reference",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08Q36SRKK",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803726946482520125",
+      "type": "Default",
+      "timestamp": "2021-01-26T20:43:56.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803759359766954026",
+      "type": "Default",
+      "timestamp": "2021-01-26T22:52:44.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803759465290793000",
+      "type": "Default",
+      "timestamp": "2021-01-26T22:53:09.654+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1429.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803844227854893066",
+      "type": "Default",
+      "timestamp": "2021-01-27T04:29:58.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-27T04:29:58.444+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803957115358150656",
+      "type": "Default",
+      "timestamp": "2021-01-27T11:58:33.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803982789702582292",
+      "type": "Default",
+      "timestamp": "2021-01-27T13:40:34.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-27T13:40:33.936+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804042850609922079",
+      "type": "Default",
+      "timestamp": "2021-01-27T17:39:13.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-2dhce-oc/p/N82E16814131775",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1559.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804057591784931329",
+      "type": "Default",
+      "timestamp": "2021-01-27T18:37:48.549+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt UK PEEPS: \n6900xt asrock https://www.overclockers.co.uk/asrock-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-00f-ak.html\n6900xt asus https://www.overclockers.co.uk/asus-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-457-as.html\n6900xt saphire https://www.overclockers.co.uk/sapphire-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-39e-sp.html\n6900xt power colour devil https://www.overclockers.co.uk/powercolor-radeon-6900-xt-red-devil-16gb-gddr6-pci-express-graphics-card-gx-1a2-pc.html\n6800 saphire https://www.overclockers.co.uk/sapphire-radeon-rx-6800-pulse-16gb-gddr6-pci-express-graphics-card-gx-39d-sp.html\n6800 saphire OC https://www.overclockers.co.uk/sapphire-radeon-rx-6800-nitro-oc-16gb-gddr6-pci-express-graphics-card-gx-39b-sp.html",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804121392961814589",
+      "type": "Default",
+      "timestamp": "2021-01-27T22:51:19.935+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1429.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804121434745339956",
+      "type": "Default",
+      "timestamp": "2021-01-27T22:51:29.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804153043985367082",
+      "type": "Default",
+      "timestamp": "2021-01-28T00:57:06.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804176822312501248",
+      "type": "Default",
+      "timestamp": "2021-01-28T02:31:35.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC 319 AMD Radeon RX 6900 XT Black Gaming Graphics Card with 16GB GDDR6, HDMI 2 x DP USB-C, AMD RDNA 2, RX-69XTACBD9",
+          "url": "https://www.newegg.com/xfx-radeon-rx-6900-xt-rx-69xtacbd9/p/N82E16814150847",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1508.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804204523152867391",
+      "type": "Default",
+      "timestamp": "2021-01-28T04:21:39.717+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-28T04:21:39.516+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804210787286777878",
+      "type": "Default",
+      "timestamp": "2021-01-28T04:46:33.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-28T04:46:33.123+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804403357946871898",
+      "type": "Default",
+      "timestamp": "2021-01-28T17:31:45.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804404886011379752",
+      "type": "Default",
+      "timestamp": "2021-01-28T17:37:49.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1429.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804426152482963476",
+      "type": "Default",
+      "timestamp": "2021-01-28T19:02:20.267+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-28T19:02:20.075+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804436301201014874",
+      "type": "Default",
+      "timestamp": "2021-01-28T19:42:39.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-28T19:42:39.733+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804450246243516426",
+      "type": "Default",
+      "timestamp": "2021-01-28T20:38:04.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-28T20:38:04.43+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804461764984569916",
+      "type": "Default",
+      "timestamp": "2021-01-28T21:23:50.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-28T21:23:50.713+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804469151653429298",
+      "type": "Default",
+      "timestamp": "2021-01-28T21:53:12.068+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-28T21:53:11.83+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804508357251563521",
+      "type": "Default",
+      "timestamp": "2021-01-29T00:28:59.411+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1429.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804564794950156338",
+      "type": "Default",
+      "timestamp": "2021-01-29T04:13:15.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804584844523733003",
+      "type": "Default",
+      "timestamp": "2021-01-29T05:32:55.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1429.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804587549603135488",
+      "type": "Default",
+      "timestamp": "2021-01-29T05:43:40.339+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804603825645944842",
+      "type": "Default",
+      "timestamp": "2021-01-29T06:48:20.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1429.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804626561340932126",
+      "type": "Default",
+      "timestamp": "2021-01-29T08:18:41.462+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ AMD RADEON RX 6900 XT OC Gaming Graphics Card WITH 16GB GDDR6, 11308-01-20G",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6900-xt-11308-01-20g/p/N82E16814202395",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1429.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804626693934678026",
+      "type": "Default",
+      "timestamp": "2021-01-29T08:19:13.075+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804682340936712192",
+      "type": "Default",
+      "timestamp": "2021-01-29T12:00:20.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804778495066636319",
+      "type": "Default",
+      "timestamp": "2021-01-29T18:22:25.285+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804785679908995172",
+      "type": "Default",
+      "timestamp": "2021-01-29T18:50:58.285+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-29T18:50:58.097+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804869806418952222",
+      "type": "Default",
+      "timestamp": "2021-01-30T00:25:15.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "779448295147438100",
+        "name": "6900xt Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-30T00:25:15.355+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6900xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1499.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08SVZNFWR",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805914964602257409",
+      "type": "Default",
+      "timestamp": "2021-02-01T21:38:20.737+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-2dhce-oc/p/N82E16814131775",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1559.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805928805721571368",
+      "type": "Default",
+      "timestamp": "2021-02-01T22:33:20.717+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805947461155422219",
+      "type": "Default",
+      "timestamp": "2021-02-01T23:47:28.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-2dhce-oc/p/N82E16814131775",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1559.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805950428785016862",
+      "type": "Default",
+      "timestamp": "2021-02-01T23:59:16.057+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6900xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil AMD Radeon RX 6900 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache, AXRX 6900XT 16GBD6-3DHE/OC",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6900-xt-axrx-6900xt-16gbd6-3dhe-oc/p/N82E16814131776",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1529.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 139
+}

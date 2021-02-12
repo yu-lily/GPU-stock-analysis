@@ -1,0 +1,76 @@
+{
+  "guild": {
+    "id": "755412431186165781",
+    "name": "ATR",
+    "iconUrl": "https://cdn.discordapp.com/icons/755412431186165781/59add5d2f34eb55c678dfcf9d2ed2578.png"
+  },
+  "channel": {
+    "id": "798559438935425065",
+    "type": "GuildNews",
+    "category": "Tracking RTX",
+    "name": "tracking-rtx-3060",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "798559891739770891",
+      "type": "Default",
+      "timestamp": "2021-01-12T14:31:54.716+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "soon™️",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "798559888992108564",
+          "url": "https://cdn.discordapp.com/attachments/798559438935425065/798559888992108564/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1353020
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798601117990780955",
+      "type": "Default",
+      "timestamp": "2021-01-12T17:15:43.82+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.evga.com/articles/01465/evga-geforce-rtx-3060/",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EVGA - Articles - EVGA GeForce RTX 3060 12GB",
+          "url": "https://www.evga.com/articles/01465/evga-geforce-rtx-3060/",
+          "timestamp": null,
+          "description": "The EVGA GeForce RTX 3060 12GB are the absolute definition of ultimate performance.",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

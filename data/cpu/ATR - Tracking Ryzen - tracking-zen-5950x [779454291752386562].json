@@ -1,0 +1,3176 @@
+{
+  "guild": {
+    "id": "755412431186165781",
+    "name": "ATR",
+    "iconUrl": "https://cdn.discordapp.com/icons/755412431186165781/59add5d2f34eb55c678dfcf9d2ed2578.png"
+  },
+  "channel": {
+    "id": "779454291752386562",
+    "type": "GuildNews",
+    "category": "Tracking Ryzen",
+    "name": "tracking-zen-5950x",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "779470875589083166",
+      "type": "Default",
+      "timestamp": "2020-11-20T22:18:58.609+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199097",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779491528954478592",
+      "type": "Default",
+      "timestamp": "2020-11-20T23:41:02.755+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x https://www.newegg.com/p/pl?d=amd+5950x&N=100007671&isdeptsrh=1",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779798928488267827",
+      "type": "Default",
+      "timestamp": "2020-11-21T20:02:32.515+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@deleted-role",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-21T20:02:24.91+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B0815Y8J9N/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780947510457794582",
+      "type": "Default",
+      "timestamp": "2020-11-25T00:06:35.796+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-25T00:06:35.579+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B0815Y8J9N/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233216522682448",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:53.43+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[5950x BUNDLE NEWEGG @alert-zen-5950x](https://www.newegg.com/p/pl?d=amd+5950x&N=100007671&isdeptsrh=1) was updated.",
+      "author": {
+        "id": "779456183308124171",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456183308124171/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "[GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5950X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207317) ~~OUT OF STOCK~~ \n$979.98$949.98–Combo save: $30.00 ~~Auto Notify~~ \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5950X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207303) ~~OUT OF STOCK~~ \n$1,049.98$999.98–Combo save: $50.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero MB, G.SKILL Trident Z Neo Series 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190567) ~~OUT OF STOCK~~ \n$1,329.97$1,314.97–Combo save: $15.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5950X Processor, MSI MPG X570 GAMING PRO CARBON WIFI ATX Gaming Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207513) ~~OUT OF STOCK~~ \n$1,054.98$1,034.98–Combo save: $20.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5950X Processor, ASUS  ROG X570 Crosshair VIII Hero ATX Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190569) ~~OUT OF STOCK~~ \n$1,159.98$1,139.98–Combo save: $20.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate 18TB Exos Enterprise Hard Drive X18 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST18000NM000J](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199097) ~~OUT OF STOCK~~ \n$1,399.98$1,379.98–Combo save: $20.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, G.SKILL Trident Z Neo Series 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199031) ~~OUT OF STOCK~~ \n$969.98$962.98–Combo save: $7.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + S…](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199061)\n$1,179.98$1,164.98–Combo save: $15.00 ~~Auto Notify~~",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-25T19:01:53.1+00:00",
+          "description": "[GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5950X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207317)\n$979.98$949.98–Combo save: $30.00 **Add to cart** \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5950X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207303)\n$1,049.98$999.98–Combo save: $50.00 **Add to cart** \n[AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero MB, G.SKILL Trident Z Neo Series 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190567)\n$1,329.97$1,314.97–Combo save: $15.00 **Add to cart** \n[AMD Ryzen 9 5950X Processor, MSI MPG X570 GAMING PRO CARBON WIFI ATX Gaming Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207513)\n$1,054.98$1,034.98–Combo save: $20.00 **Add to cart** \n[AMD Ryzen 9 5950X Processor, ASUS  ROG X570 Crosshair VIII Hero ATX Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190569)\n$1,159.98$1,139.98–Combo save: $20.00 **Add to cart** \n[AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate 18TB Exos Enterprise Hard Drive X18 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST18000NM000J](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199097) **AMD Ryzen 9 5950X 3.4 GHz Socket AM4 Desktop Processor + Seagate 18TB Exos Enterprise HDD** \n$1,399.98$1,379.98–Combo save: $20.00 **Add to cart** \n[AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, G.SKILL Trident Z Neo Series 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199031)\n$969.98$962.98–Combo save: $7.00 **Add to cart** \n[AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + S…](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199061)\n$1,179.98$1,164.98–Combo save: $15.00 **Add to cart** \n… **AMD Ryzen 9 5950X 3.4GHz S…**",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233321170567189",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:02:18.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199825",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1133.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233322264494121",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:02:18.641+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate 18TB Exos Enterprise Hard Drive X18 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199097",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1379.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233327083880450",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:02:19.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5950X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207303",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$999.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233327994437694",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:02:20.007+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5950X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207317",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$949.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233329222582302",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:02:20.3+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate FireCuda 520 M.2 2280 2TB PCIe Gen4 x4,",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199061",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1164.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233343671828501",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:02:23.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, G.SKILL Trident Z Neo Series 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199031",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$962.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233344204636181",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:02:23.872+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor, MSI MPG X570 GAMING PRO CARBON WIFI ATX Gaming Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207513",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1034.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233345064599573",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:02:24.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor, ASUS  ROG X570 Crosshair VIII Hero ATX Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190569",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1139.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781586272471744543",
+      "type": "Default",
+      "timestamp": "2020-11-26T18:24:48.528+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-26T18:24:48.334+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B0815Y8J9N/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033256177598514",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:00:57.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5950X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207303",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$999.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033257092743188",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:00:57.966+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5950X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207317",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$949.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033263065301052",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:00:59.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, G.SKILL Trident Z Neo Series 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199031",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$957.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033263706898435",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:00:59.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate FireCuda 520 M.2 2280 2TB PCIe Gen4 x4,",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199061",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1144.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033265388290068",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:00:59.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor, ASUS  ROG X570 Crosshair VIII Hero ATX Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190569",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1139.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033278907056140",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:01:03.167+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate 18TB Exos Enterprise Hard Drive X18 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199097",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1379.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033280211353650",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:01:03.478+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199825",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1133.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033281520631838",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:01:03.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero MB, G.SKILL Trident Z Neo Series 32GB",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190567",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1309.97",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783482868604993536",
+      "type": "Default",
+      "timestamp": "2020-12-02T00:01:12.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, G.SKILL Trident Z Neo Series 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199031&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$966.97",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783482873474187335",
+      "type": "Default",
+      "timestamp": "2020-12-02T00:01:13.444+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5950X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207317&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$964.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783482874383826955",
+      "type": "Default",
+      "timestamp": "2020-12-02T00:01:13.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate FireCuda 520 M.2 2280 2TB PCIe Gen4 x4,",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199061&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1164.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783482879300075570",
+      "type": "Default",
+      "timestamp": "2020-12-02T00:01:14.833+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate 18TB Exos Enterprise Hard Drive X18 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199097&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1379.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783482880348389407",
+      "type": "Default",
+      "timestamp": "2020-12-02T00:01:15.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5950X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207303&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$999.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783506620243247164",
+      "type": "Default",
+      "timestamp": "2020-12-02T01:35:35.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Desktop Processor, G.SKILL Trident Z Neo Series 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199031&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$966.97",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783506624790396999",
+      "type": "Default",
+      "timestamp": "2020-12-02T01:35:36.199+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5950X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207317&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$964.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783506625944092693",
+      "type": "Default",
+      "timestamp": "2020-12-02T01:35:36.474+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate FireCuda 520 M.2 2280 2TB PCIe Gen4 x4,",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199061&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1164.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783506630792314882",
+      "type": "Default",
+      "timestamp": "2020-12-02T01:35:37.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5950X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207303&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$999.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783506636097454141",
+      "type": "Default",
+      "timestamp": "2020-12-02T01:35:38.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate 18TB Exos Enterprise Hard Drive X18 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199097&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1379.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786375092140769300",
+      "type": "Default",
+      "timestamp": "2020-12-09T23:33:52.109+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-09T23:33:51.759+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B0815Y8J9N/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786381495912103976",
+      "type": "Default",
+      "timestamp": "2020-12-09T23:59:18.887+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://geni.us/oZu0",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788257197356351568",
+      "type": "Default",
+      "timestamp": "2020-12-15T04:12:40.96+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-15T04:12:39.701+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B0815Y8J9N/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950023705853992",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:43.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock B550 TAICHI AM4 AMD B550",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211882&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1071.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950024531738665",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:43.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor",
+          "url": "https://www.newegg.com/amd-ryzen-9-5950x/p/N82E16819113663",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$804.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950028920029244",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:44.877+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and Seagate FireCuda 520 M.2 2280 1TB",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210828&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$994.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950029418889227",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:44.996+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and GIGABYTE B550 AORUS MASTER AM4 AMD",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211886&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1039.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950030836301855",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:45.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock B550 Phantom Gaming-ITX/ax",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211880&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$949.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950045109387284",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:48.737+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock Phantom Gaming B550 PG VELOCITA",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211881&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$999.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950048134266910",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:49.458+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor + Seagate FireCuda 520 M.2 2280 2TB PCIe Gen4 x4,",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199061&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1169.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950048879673345",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:49.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor + Thermaltake Toughpower GF1 650W Full Modular Power Supply 10 Year Warranty - PS-TPD-0650FNFAGU-1",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211025&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$889.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950049941749790",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:49.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor + Thermaltake Toughpower Grand RGB 750W Smart Zero Fan SLI/CrossFire Ready Continuous Power",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211027&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$899.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950051074342952",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:50.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor + Thermaltake Toughpower Grand RGB 850W SLI/CrossFire Ready Continuous Power",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211023&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$974.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950065992695829",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:53.716+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and Corsair Force MP600 M.2 2280 1TB",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210827&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$979.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950067175358464",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:53.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and SAMSUNG 980 PRO M.2 2280 500GB PCI-Express",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210832&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$919.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788950068475461653",
+      "type": "Default",
+      "timestamp": "2020-12-17T02:05:54.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and Western Digital WD BLACK SN850 NVMe",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210830&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1024.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296391078936616",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:04.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock B550 TAICHI AM4 AMD B550",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211882&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1071.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296392006402078",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:04.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor",
+          "url": "https://www.newegg.com/amd-ryzen-9-5950x/p/N82E16819113663",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$804.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296395638407178",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:05.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and Western Digital WD BLACK SN850 NVMe",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210830&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1024.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296396552634388",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:05.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and GIGABYTE B550 AORUS MASTER AM4 AMD",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211886&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1039.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296398528282644",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:05.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock Phantom Gaming B550 PG VELOCITA",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211881&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$999.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296412877520959",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:09.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and GIGABYTE X570 AORUS MASTER AMD Ryzen",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4212196&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1119.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296413644292147",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:09.431+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock B550 Phantom Gaming-ITX/ax",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211880&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$979.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296418174926868",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:10.511+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor + Thermaltake Toughpower GF1 650W Full Modular Power Supply 10 Year Warranty - PS-TPD-0650FNFAGU-1",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211025&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$889.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296420351508571",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:02:11.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and SAMSUNG 980 PRO M.2 2280 500GB PCI-Express",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210832&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$919.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789584532398800916",
+      "type": "Default",
+      "timestamp": "2020-12-18T20:07:02.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x https://www.walmart.com/ip/AMD-Ryzen-9-5950X-16-core-32-thread-Desktop-Processor/159710953?comm-msg-vehicle=EMAIL&comm-msg-id=8f52d45c-8956-4c06-87b3-4fe53277082b",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789585091080880208",
+      "type": "Default",
+      "timestamp": "2020-12-18T20:09:15.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some users are reporting walmart sent them a 5900x, good luck! Use price match if they send you the wrong one?",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659488637943838",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:04:53.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock B550 Phantom Gaming-ITX/ax",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211880&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$979.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659488998653953",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:04:53.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 3.4 GHz Socket AM4 100-100000059WOF Desktop Processor",
+          "url": "https://www.newegg.com/amd-ryzen-9-5950x/p/N82E16819113663",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$804.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659492886249512",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:04:54.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and GIGABYTE X570 AORUS MASTER AMD Ryzen",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4212196&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1119.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659493738610698",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:04:54.471+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock B550 TAICHI AM4 AMD B550",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211882&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1071.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659497509290014",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:04:55.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and Western Digital WD BLACK SN850 NVMe",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210830&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1024.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659510071361567",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:04:58.365+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and GIGABYTE B550 AORUS MASTER AM4 AMD",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211886&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1039.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659510817161237",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:04:58.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and ASRock Phantom Gaming B550 PG VELOCITA",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211881&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$999.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659514844610611",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:04:59.503+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 16-Core 3.4 GHz Socket AM4 105W 100-100000059WOF Desktop Processor and SAMSUNG 980 PRO M.2 2280 500GB PCI-Express",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210832&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$919.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790976169029271592",
+      "type": "Default",
+      "timestamp": "2020-12-22T16:16:54.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/amd-ryzen-9-5950x-4th-gen-16-core-32-threads-unlocked-desktop-processor-without-cooler/6438941.p?skuId=6438941",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 4th Gen 16-core, 32-threads Unlocked Desktop Proc...",
+          "url": "https://www.bestbuy.com/site/amd-ryzen-9-5950x-4th-gen-16-core-32-threads-unlocked-desktop-processor-without-cooler/6438941.p?skuId=6438941",
+          "timestamp": null,
+          "description": "Shop AMD Ryzen 9 5950X 4th Gen 16-core, 32-threads Unlocked Desktop Processor Without Cooler at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6438/6438941_sd.jpg",
+            "width": 902,
+            "height": 979
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790976187148795975",
+      "type": "Default",
+      "timestamp": "2020-12-22T16:16:58.643+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791101227906629674",
+      "type": "Default",
+      "timestamp": "2020-12-23T00:33:50.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.newegg.com/p/pl?d=5950+combo",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791101272815829022",
+      "type": "Default",
+      "timestamp": "2020-12-23T00:34:01.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793637056554729556",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:30:19.346+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor + Thermaltake Toughpower Grand RGB 750W Smart Zero Fan SLI/CrossFire Ready Continuous Power",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211027",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$903.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793637060425809950",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:30:20.269+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X Processor + Thermaltake Toughpower Grand RGB 850W SLI/CrossFire Ready Continuous Power",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211023",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$974.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796052691100368957",
+      "type": "Default",
+      "timestamp": "2021-01-05T16:29:11.502+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/amd-ryzen-9-5950x-4th-gen-16-core-32-threads-unlocked-desktop-processor-without-cooler/6438941.p?skuId=6438941",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5950X 4th Gen 16-core, 32-threads Unlocked Desktop Proc...",
+          "url": "https://www.bestbuy.com/site/amd-ryzen-9-5950x-4th-gen-16-core-32-threads-unlocked-desktop-processor-without-cooler/6438941.p?skuId=6438941",
+          "timestamp": null,
+          "description": "Shop AMD Ryzen 9 5950X 4th Gen 16-core, 32-threads Unlocked Desktop Processor Without Cooler at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6438/6438941_sd.jpg",
+            "width": 902,
+            "height": 979
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796052711346798622",
+      "type": "Default",
+      "timestamp": "2021-01-05T16:29:16.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796053115345436742",
+      "type": "Default",
+      "timestamp": "2021-01-05T16:30:52.65+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-05T16:30:50.935+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "bestbuy",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.bestbuy.com/site/amd-ryzen-9-5950x-4th-gen-16-core-32-threads-unlocked-desktop-processor-without-cooler/6438941.p?skuId=6438941&intl=nosplash",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796058120744599622",
+      "type": "Default",
+      "timestamp": "2021-01-05T16:50:46.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-05T16:50:45.819+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "bestbuy",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.bestbuy.com/site/amd-ryzen-9-5950x-4th-gen-16-core-32-threads-unlocked-desktop-processor-without-cooler/6438941.p?skuId=6438941&intl=nosplash",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796776063253872681",
+      "type": "Default",
+      "timestamp": "2021-01-07T16:23:36.863+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-07T16:23:36.603+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5450881400/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800762630246629376",
+      "type": "Default",
+      "timestamp": "2021-01-18T16:24:48.501+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-18T16:24:48.119+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B0815Y8J9N/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802218559295455262",
+      "type": "Default",
+      "timestamp": "2021-01-22T16:50:09.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-22T16:50:08.739+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "bestbuy",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.bestbuy.com/site/amd-ryzen-9-5950x-4th-gen-16-core-32-threads-unlocked-desktop-processor-without-cooler/6438941.p?skuId=6438941&intl=nosplash",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804393116219605032",
+      "type": "Default",
+      "timestamp": "2021-01-28T16:51:03.808+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amd.com/en/direct-buy/us",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804393163556520006",
+      "type": "Default",
+      "timestamp": "2021-01-28T16:51:15.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804393436660498493",
+      "type": "Default",
+      "timestamp": "2021-01-28T16:52:20.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "804393434558365706",
+          "url": "https://cdn.discordapp.com/attachments/779454291752386562/804393434558365706/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 237229
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805110185201762314",
+      "type": "Default",
+      "timestamp": "2021-01-30T16:20:26.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "779456183308124171",
+        "name": "5950x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-30T16:20:25.494+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5950\u00A05950x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B0815Y8J9N/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805110310914490390",
+      "type": "Default",
+      "timestamp": "2021-01-30T16:20:56.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5950x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "amd-ryzen5950-5950x",
+          "url": "https://smile.amazon.com/gp/offer-listing/B0815Y8J9N",
+          "timestamp": null,
+          "description": "**BUY NOW @ AMAZON**\n\n**PRICE**\n$799.0",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://i.pinimg.com/originals/08/5f/d8/085fd8f7819dee3b716da73d3b2de61c.jpg",
+            "width": 910,
+            "height": 512
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805110571867176982",
+      "type": "Default",
+      "timestamp": "2021-01-30T16:21:58.564+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "botted to death prob : (",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 86
+}

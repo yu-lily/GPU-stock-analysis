@@ -1,0 +1,4386 @@
+{
+  "guild": {
+    "id": "755412431186165781",
+    "name": "ATR",
+    "iconUrl": "https://cdn.discordapp.com/icons/755412431186165781/59add5d2f34eb55c678dfcf9d2ed2578.png"
+  },
+  "channel": {
+    "id": "779454265432735824",
+    "type": "GuildNews",
+    "category": "Tracking Ryzen",
+    "name": "tracking-zen-5900x",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "779471081781198848",
+      "type": "Default",
+      "timestamp": "2020-11-20T22:19:47.769+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[RYZEN 5900x BUNDLE NEWEGG @alert-zen-5900x](https://www.newegg.com/p/pl?d=amd+5900x&N=100007671&isdeptsrh=1&SrchInDesc=ryzen+5000) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "Best RatingMost ReviewsNewest to OldestFeatured Items\nView:36609636 List View\nGrid View\nFilters:Search Within:ryzen 5000Reset\n[AMD Ryzen 9 5900X Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero ATX Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190499) ~~OUT OF STOCK~~ \n$909.98$889.98–Combo save: $20.00\n~~Auto Notify ~~ \n[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, GIGABYTE X570 AORUS MASTER AMD X570 MB, SAMSUNG 980 PRO M.2 2280 500GB PCI-E SSD](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190507)OUT OF STOCK\n$1,059.97$1,034.98–Combo save: $24.99Auto Notify \n[AMD Ryzen 9 5900X Processor, GIGABYTE X570 AORUS MASTER Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190501) ~~OUT OF STOCK~~ \n$909.98$899.98–Combo save: $10.00\n~~Auto Notify ~~ \n[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421) ~~OUT OF STOCK~~ \n$829.98$809.98–Combo save: $20.00\n~~Auto Notify ~~ \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305) ~~OUT OF STOCK~~ \n$799.98$749.98–Combo save: $50.00\n~~Auto Notify ~~ \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)\n~~OUT OF STOCK~~ \n$819.98$799.98–Combo save: $20.00\n~~Auto Notify ~~ \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST10000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829)\n~~OUT OF STOCK~~ \n$807.98$797.98–Combo save: $10.00 ~~Auto Notify~~ \n…OUT OF STOCK\n$581.98$576.98–Combo save: $5.00Auto Notify \n…\n…",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-20T22:19:47.524+00:00",
+          "description": "Best RatingMost ReviewsNewest to OldestFeatured Items\nView:36609636 List View\nGrid View\nFilters:Search Within:ryzen 5000Reset\n[AMD Ryzen 9 5900X Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero ATX Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190499)\n$909.98$889.98–Combo save: $20.00 **Add to cart ** \n[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, GIGABYTE X570 AORUS MASTER AMD X570 MB, SAMSUNG 980 PRO M.2 2280 500GB PCI-E SSD](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190507)OUT OF STOCK\n$1,059.97$1,034.98–Combo save: $24.99Auto Notify \n[AMD Ryzen 9 5900X Processor, GIGABYTE X570 AORUS MASTER Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190501)\n$909.98$899.98–Combo save: $10.00 **Add to cart ** \n[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00 **Add to cart ** \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00 **Add to cart ** \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047) **AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 12TB Exos Enterprise HDD** \n$819.98$799.98–Combo save: $20.00 **Add to cart ** \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST10000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829) **AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 10TB Exos Enterprise HDD** \n$807.98$797.98–Combo save: $10.00 **Add to …**",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779471322408550414",
+      "type": "Default",
+      "timestamp": "2020-11-20T22:20:45.139+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[RYZEN 5900x BUNDLE NEWEGG @alert-zen-5900x](https://www.newegg.com/p/pl?d=amd+5900x&N=100007671&isdeptsrh=1&SrchInDesc=ryzen+5000) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00\n~~ ~~ In Cart~~ ~~ [ ~~ In Cart~~ ](https://secure.newegg.com/shop/cart)\n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 12TB Exos Enterprise HDD",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-20T22:20:45.08+00:00",
+          "description": "[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00 **Add to cart ** \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 12TB Exos Enterprise HDD",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779471490378104853",
+      "type": "Default",
+      "timestamp": "2020-11-20T22:21:25.186+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[RYZEN 5900x BUNDLE NEWEGG @alert-zen-5900x](https://www.newegg.com/p/pl?d=amd+5900x&N=100007671&isdeptsrh=1&SrchInDesc=ryzen+5000) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00\n~~ ~~ In Cart~~ ~~ [ ~~ In Cart~~ ](https://secure.newegg.com/shop/cart)\n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 12TB Exos Enterprise HDD",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-20T22:21:25.084+00:00",
+          "description": "[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00 **Add to cart ** \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 12TB Exos Enterprise HDD",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779471641050742805",
+      "type": "Default",
+      "timestamp": "2020-11-20T22:22:01.109+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[RYZEN 5900x BUNDLE NEWEGG @alert-zen-5900x](https://www.newegg.com/p/pl?d=amd+5900x&N=100007671&isdeptsrh=1&SrchInDesc=ryzen+5000) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00\n~~ ~~ In Cart~~ ~~ [ ~~ In Cart~~ ](https://secure.newegg.com/shop/cart)\n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 12TB Exos Enterprise HDD",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-20T22:22:01.052+00:00",
+          "description": "[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00 **Add to cart ** \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 12TB Exos Enterprise HDD",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779471823549104158",
+      "type": "Default",
+      "timestamp": "2020-11-20T22:22:44.62+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[RYZEN 5900x BUNDLE NEWEGG @alert-zen-5900x](https://www.newegg.com/p/pl?d=amd+5900x&N=100007671&isdeptsrh=1&SrchInDesc=ryzen+5000) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00Add to cart \n~~ ~~~~ ~~ [ ~~~~ ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047) ~~ ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G~~ ~~ [ ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST12000NM001G~~ ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047) ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 12TB Exos Enterprise HDD~~ \n~~$819.98~~  ~~$~~  ~~799~~  ~~.98~~  ~~–~~  ~~Combo save: ~~  ~~$20.00~~  ~~Add to cart ~~ \n~~ ~~~~ ~~ [ ~~~~ ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829) ~~ ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST10000NM001G~~ ~~ [ ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST10000NM001G~~ ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829) ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 10TB Exos Enterprise HDD~~ \n~~$807.98~~  ~~$~~  ~~797~~  ~~.98~~  ~~–~~  ~~Combo save: ~~  ~~$10.00~~  ~~Add to cart ~~ \n[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, OLOy 8GB DDR4 3600 Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199039)OUT OF…",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-20T22:22:44.509+00:00",
+          "description": "[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00Add to cart \n[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, OLOy 8GB DDR4 3600 Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199039)OUT OF STOCK\n$581.98$576.98–Combo save: $5.00Auto Notify \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST16000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199099)AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 16TB Exos Enterprise HDD\n$892.87$882.87–Combo save: $10.00Add to cart \n[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, Crucial Ballistix RGB 16GB (2 x 8GB) DDR4 3600 Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199038)OUT OF STOCK\n$639.98$634.98–Combo save: $5.00Auto Notify \n** **** ** [ **** ](https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664?Description=amd%205900x&cm_re=amd_5900x-_-19-113-664-_-Product) ** **** ** [ **** ](https://www.newegg.com/AMD/BrandStore/ID-1028) ** **(11)** ** [ **(11)** ](https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664?IsFeedbackTab=true#scrollFullInfo)\n** **AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor** ** [ **AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor** ](https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664?Description=amd%205900x&cm_re=amd_5900x-_-19-113-664-_-Product) **OUT OF STOCK** \n**Series:**  ** Ryzen 9 5000 Series**  **L3 Cache:**  ** 64MB**  **L2 Cache:**  ** 6MB**  **Cooling Device:**",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779472320120356904",
+      "type": "Default",
+      "timestamp": "2020-11-20T22:24:43.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[RYZEN 5900x BUNDLE NEWEGG @alert-zen-5900x](https://www.newegg.com/p/pl?d=amd+5900x&N=100007671&isdeptsrh=1&SrchInDesc=ryzen+5000) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, GIGABYTE X570 AORUS MASTER AMD X570 MB, SAMSUNG 980 PRO M.2 2280 500GB PCI-E SSD](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190507)OUT OF STOCK\n$1,059.97$1,034.98–Combo save: $24.99Auto Notify \n[AMD Ryzen 9 5900X Processor, GIGABYTE X570 AORUS MASTER Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190501)\n$909.98$899.98–Combo save: $10.00Add to cart \n[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n~~ ~~~~ ~~ [ ~~~~ ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305) ~~ ~~GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor~~ ~~ [ ~~GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor~~ ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n~~$799.98~~  ~~$~~  ~~749~~  ~~.98~~  ~~–~~  ~~Combo save: ~~  ~~$50.00~~  ~~Add to cart ~~ \n[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, OLOy 8GB DDR4 3600 Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199039)OUT OF STOCK\n$581.98$576.98–Combo save: $5.00Auto Notify \n~~ ~~~~ ~~ [ ~~~~ ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199099) ~~ ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST16000NM001G~~ ~~ [ ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST16000NM001G~~ ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199099) ~~AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 16TB Exos Enterprise HDD~~ \n~~$892.87~~  ~~$~~  ~~882~~  ~~.87~~  ~~–~~  ~~Combo save: ~~  ~~$10.00~~  ~~Add…~~",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-20T22:24:42.896+00:00",
+          "description": "[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, GIGABYTE X570 AORUS MASTER AMD X570 MB, SAMSUNG 980 PRO M.2 2280 500GB PCI-E SSD](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190507)OUT OF STOCK\n$1,059.97$1,034.98–Combo save: $24.99Auto Notify \n[AMD Ryzen 9 5900X Processor, GIGABYTE X570 AORUS MASTER Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190501)\n$909.98$899.98–Combo save: $10.00Add to cart \n** **** ** [ **** ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305) ** **GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor** ** [ **GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor** ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n**$799.98**  **$**  **749**  **.98**  **–**  **Combo save: **  **$50.00**  **Add to cart ** \n[ASUS ROG Strix B550-E Gaming AMD AM4 ATX Gaming Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207421)\n$829.98$809.98–Combo save: $20.00Add to cart \n** **** ** [ **** ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829) ** **AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST10000NM001G** ** [ **AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST10000NM001G** ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829) **AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 10TB Exos Enterprise HDD** \n**$807.98**  **$**  **797**  **.98**  **–**  **Combo save: **  **$10.00**  **Add to cart ** \n** **** ** [ **** ](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047) ** **AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200 …** **",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779853953390870588",
+      "type": "Default",
+      "timestamp": "2020-11-21T23:41:11.474+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@deleted-role",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-21T23:41:11.145+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233075392610374",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:19.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[RYZEN 5900x BUNDLE NEWEGG @alert-zen-5900x](https://www.newegg.com/p/pl?d=amd+5900x&N=100007671&isdeptsrh=1&SrchInDesc=ryzen+5000) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "Best SellingBest RatingMost ReviewsNewest to OldestFeatured Items\nView:36609636 List View\nGrid View\nFilters:Search Within:ryzen 5000Reset\n[GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207319) ~~OUT OF STOCK~~ \n$729.98$699.98–Combo save: $30.00\n~~Auto Notify ~~ \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305) ~~OUT OF STOCK~~ \n$799.98$749.98–Combo save: $50.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5900X Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero ATX Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190499) ~~OUT OF STOCK~~ \n$909.98$889.98–Combo save: $20.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, GIGABYTE X570 AORUS MASTER AMD X570 MB, SAMSUNG 980 PRO M.2 2280 500GB PCI-E SSD](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190507) ~~OUT OF STOCK~~ \n$1,059.97$1,034.98–Combo save: $24.99 ~~Auto Notify~~ \n[AMD Ryzen 9 5900X Processor, GIGABYTE X570 AORUS MASTER Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190501) ~~OUT OF STOCK~~ \n$909.98$899.98–Combo save: $10.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST10000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829) ~~OUT OF STOCK~~ \n$788.98$778.98–Combo save: $10.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5900X 3.7GHz Desktop Processor, CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) DDR4 3600 Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199051) ~~OUT OF STOCK~~ \n$699.98$690.98–Combo save: $9.00 ~~Auto Notify~~ \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + S…](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)\n…",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-25T19:01:19.459+00:00",
+          "description": "Best SellingBest RatingMost ReviewsNewest to OldestFeatured Items\nView:36609636 List View\nGrid View\nFilters:Search Within:ryzen 5000Reset\n[GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207319)\n$729.98$699.98–Combo save: $30.00 **Add to cart ** \n[GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305)\n$799.98$749.98–Combo save: $50.00 **Add to cart** \n[AMD Ryzen 9 5900X Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero ATX Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190499)\n$909.98$889.98–Combo save: $20.00 **Add to cart** \n[AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, GIGABYTE X570 AORUS MASTER AMD X570 MB, SAMSUNG 980 PRO M.2 2280 500GB PCI-E SSD](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190507)\n$1,059.97$1,034.98–Combo save: $24.99 **Add to cart** \n[AMD Ryzen 9 5900X Processor, GIGABYTE X570 AORUS MASTER Motherboard](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190501)\n$909.98$899.98–Combo save: $10.00 **Add to cart** \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200 RPM SATA 6Gb/s 256MB Cache 3.5\" Internal HDD ST10000NM001G](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829) **AMD Ryzen 9 5900X 3.7 GHz Socket AM4 Desktop Processor + Seagate 10TB Exos Enterprise HDD** \n$788.98$778.98–Combo save: $10.00 **Add to cart** \n[AMD Ryzen 9 5900X 3.7GHz Desktop Processor, CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) DDR4 3600 Desktop Memory](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199051)\n$699.98$690.98–Combo save: $9.00 **Add to cart** \n[AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + S…](https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047)\n$819.98$799.98–Combo save: $20.…",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233084984983553",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:22.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, Crucial Ballistix RGB 16GB (2 x 8GB) DDR4 3600 Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199038",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$634.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233089681948702",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:23.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero ATX Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190499",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$889.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233090097315852",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:23.288+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$799.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233095034011738",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:24.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7GHz Desktop Processor, CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) DDR4 3600 Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199051",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$690.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233099564122113",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:25.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X Processor, GIGABYTE X570 AORUS MASTER Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190501",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$899.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233107151487026",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:27.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, OLOy 8GB DDR4 3600 Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199039",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$576.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233111458775061",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:28.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$749.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233112557944903",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:28.643+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199099",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$883.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233113291292705",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:28.818+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Desktop Processor, GIGABYTE X570 AORUS MASTER AMD X570 MB, SAMSUNG 980 PRO M.2 2280 500GB PCI-E",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190507",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1034.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233114424016896",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:29.088+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$778.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781233128952954901",
+      "type": "Default",
+      "timestamp": "2020-11-25T19:01:32.552+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5900X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207319",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$699.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781472705895464980",
+      "type": "Default",
+      "timestamp": "2020-11-26T10:53:32.146+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-11-26T10:53:29.985+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033722852900885",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:49.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$797.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033723512061995",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:49.169+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$799.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033724556443658",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:49.418+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE B550 AORUS MASTER Motherboard, AMD Ryzen 9 5900X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207305",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$749.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033725495181323",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:49.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE X570 AORUS ELITE Motherboard, AMD Ryzen 9 5900X Processor",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207319",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$699.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033734680969227",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:51.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7GHz Desktop Processor, CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) DDR4 3600 Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199051",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$690.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033745062133840",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:54.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X Processor, MSI MPG X570 GAMING PRO CARBON WIFI  ATX Gaming Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207515",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$784.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033746085543975",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:54.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X Processor, ASUS AMD AM4 ROG X570 Crosshair VIII Hero ATX Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190499",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$889.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033747024805898",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:54.775+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz CPU, OLOy 16GB (2 x 8GB) DDR4 3600 (PC4 28800) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4207951",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$603.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033747956465724",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:54.997+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X Processor, GIGABYTE X570 AORUS MASTER Motherboard",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190501",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$899.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782033748887732264",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:02:55.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199099",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$883.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782046116094672896",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:52:03.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x https://www.newegg.com/p/pl?d=5900x+combo",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783719718560596018",
+      "type": "Default",
+      "timestamp": "2020-12-02T15:42:21.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-02T15:42:21.293+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783721192896331776",
+      "type": "Default",
+      "timestamp": "2020-12-02T15:48:13.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-02T15:48:13.013+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "bestbuy",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942&intl=nosplash",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783721269900214292",
+      "type": "Default",
+      "timestamp": "2020-12-02T15:48:31.581+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HERE WE GO BOYS",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785870007216373790",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:06:50.479+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[AMD RYZEN™ 9 5900X Processor | AMD @Unknown](https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "Graphics Model: Discrete Graphics Card Required\n# of CPU Cores: 12\n# of Threads: 24\nMax Boost Clock: Up to 4.8GHz\nBase Clock: 3.7GHz\nThermal Solution: Not Included\nDefault TDP / TDP: 105W\n[Full Specifications](https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true)\n$549.00 ~~Out of stock~~",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-12-08T14:06:50.157+00:00",
+          "description": "Graphics Model: Discrete Graphics Card Required\n# of CPU Cores: 12\n# of Threads: 24\nMax Boost Clock: Up to 4.8GHz\nBase Clock: 3.7GHz\nThermal Solution: Not Included\nDefault TDP / TDP: 105W\n[Full Specifications](https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true)\n$549.00 **\nAdd to cart\n**",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785870294174400523",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:07:58.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785872250687324212",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:15:45.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[AMD RYZEN™ 9 5900X Processor | AMD @Unknown](https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true) was updated.",
+      "author": {
+        "id": "779456143050539028",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779456143050539028/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "Graphics Model: Discrete Graphics Card Required\n# of CPU Cores: 12\n# of Threads: 24\nMax Boost Clock: Up to 4.8GHz\nBase Clock: 3.7GHz\nThermal Solution: Not Included\nDefault TDP / TDP: 105W\n[Full Specifications](https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true)\n$549.00 ~~Out of stock~~",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-12-08T14:15:45.28+00:00",
+          "description": "Graphics Model: Discrete Graphics Card Required\n# of CPU Cores: 12\n# of Threads: 24\nMax Boost Clock: Up to 4.8GHz\nBase Clock: 3.7GHz\nThermal Solution: Not Included\nDefault TDP / TDP: 105W\n[Full Specifications](https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true)\n$549.00 **\nAdd to cart\n**",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785872986316996648",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:18:40.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-08T14:18:40.553+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785875760044179506",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:29:42.06+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-08T14:29:38.842+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785878362308083722",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:40:02.488+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-08T14:39:59.297+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785882972515074088",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:58:21.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-08T14:58:18.435+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785891344383082547",
+      "type": "Default",
+      "timestamp": "2020-12-08T15:31:37.656+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 4th Gen 12-core, 24-threads Unlocked Desktop Proc...",
+          "url": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942",
+          "timestamp": null,
+          "description": "Shop AMD Ryzen 9 5900X 4th Gen 12-core, 24-threads Unlocked Desktop Processor Without Cooler at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6438/6438942_sd.jpg",
+            "width": 902,
+            "height": 979
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785891377493180416",
+      "type": "Default",
+      "timestamp": "2020-12-08T15:31:45.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785957668564369479",
+      "type": "Default",
+      "timestamp": "2020-12-08T19:55:10.573+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-08T19:55:10.326+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787805281430011954",
+      "type": "Default",
+      "timestamp": "2020-12-13T22:16:55.807+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-13T22:16:55.504+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788890093724631050",
+      "type": "Default",
+      "timestamp": "2020-12-16T22:07:35.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x https://www.amazon.com/gp/product/B08164VTWH",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789373407698485258",
+      "type": "Default",
+      "timestamp": "2020-12-18T06:08:06.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-18T06:08:05.845+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658883781558274",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:29.046+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and ASRock B550 TAICHI AM4 AMD B550",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211879&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$821.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658885114953798",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:29.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor",
+          "url": "https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$554.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658889250537492",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:30.35+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz CPU, CORSAIR Vengeance LPX 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211638&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$698.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658890651566091",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:30.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and ASRock Phantom Gaming B550 PG VELOCITA",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211878&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$749.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658892367298610",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:31.093+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and ASRock B550 Phantom Gaming-ITX/ax",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211877&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$729.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658905856311336",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:34.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and SAMSUNG 980 PRO M.2 2280 500GB PCI-Express",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210838&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$669.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658906527662081",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:34.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and GIGABYTE B550 AORUS MASTER AM4 AMD",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211885&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$789.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658908280094731",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:34.887+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and GIGABYTE X570 AORUS MASTER AMD Ryzen",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4212195&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$869.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658910453661696",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:35.405+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and Seagate FireCuda 520 M.2 2280 1TB",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210841&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$744.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658913888141333",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:36.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199099&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$879.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658927083421707",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:02:39.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$799.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791100451940204564",
+      "type": "Default",
+      "timestamp": "2020-12-23T00:30:45.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor",
+          "url": "https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$554.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791100929653866526",
+      "type": "Default",
+      "timestamp": "2020-12-23T00:32:39.574+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.newegg.com/p/pl?d=5900x+combo",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791231838978834432",
+      "type": "Default",
+      "timestamp": "2020-12-23T09:12:50.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-23T09:12:50.288+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462806192914462",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:37.664+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor",
+          "url": "https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$554.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462809568935937",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:38.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and ASRock B550 TAICHI AM4 AMD B550",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211879",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$821.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462812823060511",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:39.245+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and ASRock B550 Phantom Gaming-ITX/ax",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211877",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$722.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462817215545355",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:40.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and ASRock Phantom Gaming B550 PG VELOCITA",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211878",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$749.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462818372780055",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:40.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz CPU, CORSAIR Vengeance LPX 32GB (2 x 16GB) DDR4 3600 (PC4 28800) Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211638",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$698.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462827277680642",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:42.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and Seagate FireCuda 520 M.2 2280 1TB",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210841",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$744.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462828053757984",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:42.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and GIGABYTE X570 AORUS MASTER AMD Ryzen",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4212195",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$869.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462832322904116",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:43.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and SAMSUNG 980 PRO M.2 2280 500GB PCI-Express",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210838",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$669.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462833300439040",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:44.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and GIGABYTE B550 AORUS MASTER AM4 AMD",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211885",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$789.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462834852462612",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:44.497+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz Socket AM4 105W 100-100000061WOF Desktop Processor and Western Digital WD BLACK SN850 NVMe",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210842",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$774.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462849116766238",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:47.898+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 12-Core 3.7 GHz, Crucial Ballistix 16GB (2 x 8GB) DDR4 3000 (PC4 24000) Desktop Memory Model",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4210778",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$620.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462852299980850",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:48.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 16TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199099",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$879.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462853596807179",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:48.966+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 10TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199829",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$776.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462854367772702",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:49.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7 GHz Socket AM4 100-100000061WOF Desktop Processor + Seagate 12TB Exos Enterprise Hard Drive X16 7200",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4200047",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$799.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462855844298793",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:49.502+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 3.7GHz Desktop Processor, CORSAIR Vengeance RGB Pro 32GB (2 x 16GB) DDR4 3600 Desktop Memory",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4199051",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$708.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462870444933150",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:52.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X Processor + Thermaltake Toughpower Grand RGB 750W Smart Zero Fan SLI/CrossFire Ready Continuous Power",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211019",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$653.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792128062354489354",
+      "type": "Default",
+      "timestamp": "2020-12-25T20:34:07.093+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-25T20:34:05.664+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792514347909382154",
+      "type": "Default",
+      "timestamp": "2020-12-26T22:09:04.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-26T22:09:03.207+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793143823558508614",
+      "type": "Default",
+      "timestamp": "2020-12-28T15:50:23.436+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-28T15:50:22.02+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793511210712432662",
+      "type": "Default",
+      "timestamp": "2020-12-29T16:10:15.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2020-12-29T16:10:15.121+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793637887794348032",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:33:37.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211021",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793637909579956236",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:33:42.723+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793638219378851880",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:34:56.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X Processor + Thermaltake Toughpower GF1 650W Full Modular Power Supply 10 Year Warranty - PS-TPD-0650FNFAGU-1",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4211021",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$639.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794979959381688351",
+      "type": "Default",
+      "timestamp": "2021-01-02T17:26:32.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-02T17:26:32.089+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795040503258152970",
+      "type": "Default",
+      "timestamp": "2021-01-02T21:27:07.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x https://smile.amazon.com/dp/B08164VTWH/",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796052731852226560",
+      "type": "Default",
+      "timestamp": "2021-01-05T16:29:21.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 4th Gen 12-core, 24-threads Unlocked Desktop Proc...",
+          "url": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942",
+          "timestamp": null,
+          "description": "Shop AMD Ryzen 9 5900X 4th Gen 12-core, 24-threads Unlocked Desktop Processor Without Cooler at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6438/6438942_sd.jpg",
+            "width": 902,
+            "height": 979
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796052752475750400",
+      "type": "Default",
+      "timestamp": "2021-01-05T16:29:26.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796053305914687539",
+      "type": "Default",
+      "timestamp": "2021-01-05T16:31:38.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-05T16:31:37.784+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "bestbuy",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942&intl=nosplash",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796776591631319040",
+      "type": "Default",
+      "timestamp": "2021-01-07T16:25:42.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-07T16:25:42.632+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796776713572319272",
+      "type": "Default",
+      "timestamp": "2021-01-07T16:26:11.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/the-dark-knight-joker-batman-here-we-go-gif-3430376",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "And. Here. We. Go.",
+          "url": "https://tenor.com/view/the-dark-knight-joker-batman-here-we-go-gif-3430376",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.tenor.co/images/1b347a4fa53acd87fc5b03efe62187d0/raw",
+            "width": 500,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796778757255069706",
+      "type": "Default",
+      "timestamp": "2021-01-07T16:34:19.163+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "5900x STILL LIVE https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true @alert-zen-5900x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798570679603560478",
+      "type": "Default",
+      "timestamp": "2021-01-12T15:14:46.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-12T15:14:46.497+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798570900177027103",
+      "type": "Default",
+      "timestamp": "2021-01-12T15:15:39.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wowza",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "798570897027235840",
+          "url": "https://cdn.discordapp.com/attachments/779454265432735824/798570897027235840/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 15886
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798571701750988830",
+      "type": "Default",
+      "timestamp": "2021-01-12T15:18:50.442+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "must have got botted to death.",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798573251085074452",
+      "type": "Default",
+      "timestamp": "2021-01-12T15:24:59.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-12T15:24:59.573+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amazon.com/gp/offer-listing/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800742182100402176",
+      "type": "Default",
+      "timestamp": "2021-01-18T15:03:33.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x https://www.walmart.com/ip/AMD-Ryzen-9-5900X-12-core-24-thread-Desktop-Processor/647899167?comm-msg-vehicle=EMAIL&comm-msg-id=0480ff5b-f55c-4b88-a6ec-5eb279c2b9ba",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800742253105512460",
+      "type": "Default",
+      "timestamp": "2021-01-18T15:03:50.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TU FAST FOR ME",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800772442225901588",
+      "type": "Default",
+      "timestamp": "2021-01-18T17:03:47.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.walmart.com/ip/AMD-Ryzen-9-5900X-12-core-24-thread-Desktop-Processor/647899167?comm-msg-vehicle=EMAIL&comm-msg-id=761ed739-e09b-40df-9ca1-587d341fb75f",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800772459807768586",
+      "type": "Default",
+      "timestamp": "2021-01-18T17:03:52.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800772541630382130",
+      "type": "Default",
+      "timestamp": "2021-01-18T17:04:11.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "800772538971062363",
+          "url": "https://cdn.discordapp.com/attachments/779454265432735824/800772538971062363/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 22954
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801844956796026900",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:05:35.259+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-21T16:05:31.931+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "771446037416116334",
+            "name": "notlikesteve",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/771446037416116334.png"
+          },
+          "count": 128
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801845339145371709",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:07:06.418+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i have no idea whats going on. watch this page - https://www.amd.com/en/direct-buy/us",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801845606741835846",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:08:10.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "801845604480974899",
+          "url": "https://cdn.discordapp.com/attachments/779454265432735824/801845604480974899/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 36000
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801847601116872755",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:16:05.714+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-21T16:16:00.487+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amd",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://www.amd.com/en/direct-buy/5450881500/us?add-to-cart=true",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801848069087428608",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:17:57.287+00:00",
+      "timestampEdited": "2021-01-21T16:18:15.521+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Grats Bois! If we helped you score a win today, please consider donating to support the ongoing expenses of this project. \n\n<https://patreon.com/averagetechreviews>\n<https://paypal.me/averagetechreviews>\nBTC: 3G4L1wy3SNj7QFVegijk71CM57bzDGm55S\nETH: 0x31fFB0b74602C93766239612937884b3c673C53c",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802225294580777040",
+      "type": "Default",
+      "timestamp": "2021-01-22T17:16:54.853+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942 @alert-zen-5900x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMD Ryzen 9 5900X 4th Gen 12-core, 24-threads Unlocked Desktop Proc...",
+          "url": "https://www.bestbuy.com/site/amd-ryzen-9-5900x-4th-gen-12-core-24-threads-unlocked-desktop-processor-without-cooler/6438942.p?skuId=6438942",
+          "timestamp": null,
+          "description": "Shop AMD Ryzen 9 5900X 4th Gen 12-core, 24-threads Unlocked Desktop Processor Without Cooler at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6438/6438942_sd.jpg",
+            "width": 902,
+            "height": 979
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803484234832412692",
+      "type": "Default",
+      "timestamp": "2021-01-26T04:39:29.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T04:39:29.343+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "newegg",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819113664",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803486819302899713",
+      "type": "Default",
+      "timestamp": "2021-01-26T04:49:45.785+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T04:49:45.54+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "newegg",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819113664",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803486979459252275",
+      "type": "Default",
+      "timestamp": "2021-01-26T04:50:23.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh Cuckegg and your broken shuffle.",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803489413538906143",
+      "type": "Default",
+      "timestamp": "2021-01-26T05:00:04.299+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T05:00:04.107+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "newegg",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819113664",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804393105557160006",
+      "type": "Default",
+      "timestamp": "2021-01-28T16:51:01.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amd.com/en/direct-buy/us",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804393183798231050",
+      "type": "Default",
+      "timestamp": "2021-01-28T16:51:19.92+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804393447477215243",
+      "type": "Default",
+      "timestamp": "2021-01-28T16:52:22.786+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "804393443773644800",
+          "url": "https://cdn.discordapp.com/attachments/779454265432735824/804393443773644800/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 237229
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805655952921591808",
+      "type": "Default",
+      "timestamp": "2021-02-01T04:29:07.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-02-01T04:29:07.261+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805656196496883732",
+      "type": "Default",
+      "timestamp": "2021-02-01T04:30:05.613+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hit the offer button...",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "805656194504196116",
+          "url": "https://cdn.discordapp.com/attachments/779454265432735824/805656194504196116/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 25714
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805659739047329805",
+      "type": "Default",
+      "timestamp": "2021-02-01T04:44:10.223+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-zen-5900x",
+      "author": {
+        "id": "779456143050539028",
+        "name": "5900x Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-02-01T04:44:10.011+00:00",
+          "description": "",
+          "color": "#76B900",
+          "footer": {
+            "text": "<3 Tu Madre - crawl01",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "amd\u00A0ryzen5900\u00A05900x",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08164VTWH/",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805659851371708456",
+      "type": "Default",
+      "timestamp": "2021-02-01T04:44:37.003+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [
+        {
+          "id": "805659849609707520",
+          "url": "https://cdn.discordapp.com/attachments/779454265432735824/805659849609707520/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 23913
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 118
+}

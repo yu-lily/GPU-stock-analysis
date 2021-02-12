@@ -1,0 +1,4537 @@
+{
+  "guild": {
+    "id": "755412431186165781",
+    "name": "ATR",
+    "iconUrl": "https://cdn.discordapp.com/icons/755412431186165781/59add5d2f34eb55c678dfcf9d2ed2578.png"
+  },
+  "channel": {
+    "id": "778455998989991956",
+    "type": "GuildNews",
+    "category": "Tracking NAVI",
+    "name": "tracking-navi-6800xt",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "778620383842140210",
+      "type": "Default",
+      "timestamp": "2020-11-18T13:59:25.575+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AMD REDIRECTING BUY BUTTON TO THIS PAGE https://www.amd.com/en/direct-buy/us",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778622806950281236",
+      "type": "Default",
+      "timestamp": "2020-11-18T14:09:03.289+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ALL BB CARDS https://geni.us/sOl5",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GPUs / Video Graphics Cards - Best Buy",
+          "url": "https://geni.us/sOl5",
+          "timestamp": null,
+          "description": "Shop for GPUs / Video Graphics Cards at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780584407950032896",
+      "type": "Default",
+      "timestamp": "2020-11-24T00:03:45.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[6800XT Newegg @alert-rx-6800xt](https://www.newegg.com/Promotions/EventSaleStore/ID-452) was updated.",
+      "author": {
+        "id": "778456442108641280",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778456442108641280/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "~~ ~~#1 BEST SELLER~~ \n~~~~ ~~ [ ~~#1 BEST SELLER~~ \n~~~~ ](https://www.newegg.com/sapphire-radeon-rx-6800-xt-21304-01-20g/p/N82E16814202388?Item=N82E16814202388&quicklink=true) ~~ ~~SAPPHIRE Radeon RX 6800 XT DirectX 12 21304-01-20G Video Card~~ ~~ [ ~~SAPPHIRE Radeon RX 6800 XT DirectX 12 21304-01-20G Video Card~~ ](https://www.newegg.com/sapphire-radeon-rx-6800-xt-21304-01-20g/p/N82E16814202388?Item=N82E16814202388&quicklink=true)OUT OF STOCK\nMax Resolution: 7680 x 4320DisplayPort: 2 x DisplayPort 1.4HDMI: 1 x HDMI 2.1Card Dimensions (L x H): 10.50\" x 4.71\"Model #: 21304-01-20GItem #: N82E16814202388Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\nSold Out\nCompare\n~~ ~~#2 BEST SELLER~~ \n~~~~ ~~ [ ~~#2 BEST SELLER~~ \n~~~~ ](https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Item=N82E16814137607&quicklink=true) ~~ ~~MSI Radeon RX 6800 XT DirectX 12 RX 6800 XT 16G Video Card~~ ~~ [ ~~MSI Radeon RX 6800 XT DirectX 12 RX 6800 XT 16G Video Card~~ ](https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Item=N82E16814137607&quicklink=true)OUT OF STOCK\nCore Clock: 1825 MHzMax Resolution: 7680 x 4320DisplayPort: 2 x DisplayPort 1.4HDMI: 1 x HDMI 2.1Model #: Radeon RX 6800XT 16GItem #: N82E16814137607Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\nSold Out\nCompare\n~~ ~~#3 BEST SELLER~~ \n~~~~ ~~ [ ~~#3 BEST SELLER~~ \n~~~~ ](https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Item=N82E16814930045&quicklink=true) ~~ ~~ASRock Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 AMD RDNA 2~~ ~~ [ ~~ASRock Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 AMD RDNA 2~~ ](https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Item=N82E16814930045&quicklink=true) ~~OUT OF STOCK~~ \nMax Resolution: 7680 x 4320DisplayPort: 2 x DisplayPort 1.4HDMI: 1 x HDMI 2.1…",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-24T00:03:45.15+00:00",
+          "description": "** **#1 BEST SELLER** \n**** ** [ **#1 BEST SELLER** \n**** ](https://www.newegg.com/sapphire-radeon-rx-6800-xt-21304-01-20g/p/N82E16814202388?Item=N82E16814202388) ** **SAPPHIRE Radeon RX 6800 XT DirectX 12 21304-01-20G Video Card** ** [ **SAPPHIRE Radeon RX 6800 XT DirectX 12 21304-01-20G Video Card** ](https://www.newegg.com/sapphire-radeon-rx-6800-xt-21304-01-20g/p/N82E16814202388?Item=N82E16814202388)OUT OF STOCK\nMax Resolution: 7680 x 4320DisplayPort: 2 x DisplayPort 1.4HDMI: 1 x HDMI 2.1Card Dimensions (L x H): 10.50\" x 4.71\"Model #: 21304-01-20GItem #: N82E16814202388Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\nSold Out\nCompare\n** **#2 BEST SELLER** \n**** ** [ **#2 BEST SELLER** \n**** ](https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Item=N82E16814137607) ** **MSI Radeon RX 6800 XT DirectX 12 RX 6800 XT 16G Video Card** ** [ **MSI Radeon RX 6800 XT DirectX 12 RX 6800 XT 16G Video Card** ](https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Item=N82E16814137607)OUT OF STOCK\nCore Clock: 1825 MHzMax Resolution: 7680 x 4320DisplayPort: 2 x DisplayPort 1.4HDMI: 1 x HDMI 2.1Model #: Radeon RX 6800XT 16GItem #: N82E16814137607Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\nSold Out\nCompare\n** **#3 BEST SELLER** \n**** ** [ **#3 BEST SELLER** \n**** ](https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Item=N82E16814930045) ** **ASRock Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 AMD RDNA 2** ** [ **ASRock Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 AMD RDNA 2** ](https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Item=N82E16814930045)\nMax Resolution: 7680 x 4320DisplayPort: 2 x DisplayPort 1.4HDMI: 1 x HDMI 2.1 VRRCard Dimensions (L x H): 10.51\" x 4.72\"Model #: RX 6800 XT 16GItem #: N82E16814930045Return Policy: …",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780586998775545866",
+      "type": "Default",
+      "timestamp": "2020-11-24T00:14:03.113+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[6800XT Newegg @alert-rx-6800xt](https://www.newegg.com/Promotions/EventSaleStore/ID-452) was updated.",
+      "author": {
+        "id": "778456442108641280",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778456442108641280/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "Model #: 21304-01-20GItem #: N82E16814202388Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\nSold Out\nCompare\n[#2 BEST SELLER\n](https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Item=N82E16814930045)[ASRock Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 AMD RDNA 2](https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Item=N82E16814930045) ~~OUT OF STOCK~~ \nMax Resolution: 7680 x 4320DisplayPort: 2 x DisplayPort 1.4HDMI: 1 x HDMI 2.1 VRRCard Dimensions (L x H): 10.51\" x 4.72\"Model #: RX 6800 XT 16GItem #: N82E16814930045Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\n~~Sold Out~~ \n~~Compare~~ \n[ ~~#3 BEST SELLER~~ \n](https://www.newegg.com/asus-radeon-rx-6800-xt-rx6800xt-16g/p/N82E16814126472?Item=N82E16814126472)[ASUS Radeon RX 6800 XT RX6800XT-16G Video Card](https://www.newegg.com/asus-radeon-rx-6800-xt-rx6800xt-16g/p/N82E16814126472?Item=N82E16814126472)OUT OF STOCK\nChipset Manufacturer: AMDGPU Series: AMD Radeon RX 6000 SeriesBoost Clock: 2250 MHzStream Processors: 4608 Stream ProcessorsModel #: RX6800XT-16GItem #: N82E16814126472Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\n~~Sold Out~~ \n~~Compare~~ \n~~ ~~~~ ~~ [ ~~~~ ](https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Item=N82E16814137607) ~~ ~~~~ ~~ [ ~~~~ ](https://www.newegg.com/MSI/BrandStore/ID-1312)\n~~ ~~MSI Radeon RX 6800 XT DirectX 12 RX 6800 XT 16G Video Card~~ ~~ [ ~~MSI Radeon RX 6800 XT DirectX 12 RX 6800 XT 16G Video Card~~ ](https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Item=N82E16814137607) ~~OUT OF STOCK~~ \n~~Core Clock:~~  ~~ 1825 MHz~~  ~~Max Resolution:~~  ~~ 7680 x 4320~~  ~~DisplayPort:~~  ~~ 2 x DisplayPort 1.4~~  ~~HDMI:~~  ~~ 1 x HDMI 2.1~~  ~~Model #: ~~ …\n…",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-24T00:14:03.012+00:00",
+          "description": "Model #: 21304-01-20GItem #: N82E16814202388Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\nSold Out\nCompare\n[#2 BEST SELLER\n](https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Item=N82E16814930045)[ASRock Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 AMD RDNA 2](https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Item=N82E16814930045)\nMax Resolution: 7680 x 4320DisplayPort: 2 x DisplayPort 1.4HDMI: 1 x HDMI 2.1 VRRCard Dimensions (L x H): 10.51\" x 4.72\"Model #: RX 6800 XT 16GItem #: N82E16814930045Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\n**$**  **699**  **.99**  **–**  **$9.99 Shipping** \n**Add to cart ** \n**Compare** \n** **#3 BEST SELLER** \n**** ** [ **#3 BEST SELLER** \n**** ](https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Item=N82E16814137607) ** **** ** [ **** ](https://www.newegg.com/MSI/BrandStore/ID-1312)\n** **MSI Radeon RX 6800 XT DirectX 12 RX 6800 XT 16G Video Card** ** [ **MSI Radeon RX 6800 XT DirectX 12 RX 6800 XT 16G Video Card** ](https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Item=N82E16814137607) **OUT OF STOCK** \n**Core Clock:**  ** 1825 MHz**  **Max Resolution:**  ** 7680 x 4320**  **DisplayPort:**  ** 2 x DisplayPort 1.4**  **HDMI:**  ** 1 x HDMI 2.1**  **Model #: **  **Radeon RX 6800XT 16G**  **Item #: **  **N82E16814137607**  **Return Policy: **  ** **Extended Holiday Replacement-Only Return Policy** ** [ **Extended Holiday Replacement-Only Return Policy** ](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\n**Sold Out** \n**Compare** \n** **** ** [ **** ](https://www.newegg.com/gigabyte-radeon-rx-6800-xt-gv-r68xt-16gc-b/p/N82E16814932373?Item=N82E16814932373) ** **** ** [ **** ](https://www.newegg.com/GIGABYTE/BrandStore/ID-1314)\n** **GIGABYTE Radeon RX 6800 XT DirectX 12 GV-R68XT-16GC-B Video Card** **",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781162124273647627",
+      "type": "Default",
+      "timestamp": "2020-11-25T14:19:23.717+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6800 XT Links @ Newegg https://bit.ly/2KBCPgp",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781268218924761108",
+      "type": "Default",
+      "timestamp": "2020-11-25T21:20:58.653+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[6800XT Newegg @alert-rx-6800xt](https://www.newegg.com/p/pl?N=100007709%20601359422) was updated.",
+      "author": {
+        "id": "778456442108641280",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778456442108641280/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "[Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\n$829.99–$9.99 Shipping[Shipped by Newegg](https://kb.newegg.com/knowledge-base/shipped-by-newegg/)\nAuto Notify \nCompare\n[XFX Speedster MERC319 Radeon RX 6800XT BLACK 16GB GDDR6 HDMI DisplayPort USB-C PCIe 4.0 Gaming Graphics card](https://www.newegg.com/xfx-radeon-rx-6800-xt-rx-68xtacbd9/p/N82E16814150844) ~~OUT OF STOCK~~ \nModel #: RX-68XTACBD9Item #: N82E16814150844Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\n$799.99–$9.99 Shipping[Shipped by Newegg](https://kb.newegg.com/knowledge-base/shipped-by-newegg/)\n~~Auto Notify~~ \nCompare",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-11-25T21:20:58.401+00:00",
+          "description": "[Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\n$829.99–$9.99 Shipping[Shipped by Newegg](https://kb.newegg.com/knowledge-base/shipped-by-newegg/)\nAuto Notify \nCompare\n[XFX Speedster MERC319 Radeon RX 6800XT BLACK 16GB GDDR6 HDMI DisplayPort USB-C PCIe 4.0 Gaming Graphics card](https://www.newegg.com/xfx-radeon-rx-6800-xt-rx-68xtacbd9/p/N82E16814150844)\nModel #: RX-68XTACBD9Item #: N82E16814150844Return Policy: [Extended Holiday Replacement-Only Return Policy](https://kb.newegg.com/Article/Index/12/3?id=1167#54)\n$799.99–$9.99 Shipping[Shipped by Newegg](https://kb.newegg.com/knowledge-base/shipped-by-newegg/)\n**Add to cart** \nCompare",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782378123211046952",
+      "type": "Default",
+      "timestamp": "2020-11-28T22:51:20.456+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt Bacon lettuce tomato is at it again. Pre-order only.  https://www.shopblt.com/item/asus-tuf-gaming-amd-rx-6800/asus_tufrx6800xto16g.html",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Asus TUFRX6800XTO16G Tuf Gaming Amd Rx 6800 Xt Pcie 4.0 16gb Gddr6 ...",
+          "url": "https://www.shopblt.com/item/asus-tuf-gaming-amd-rx-6800/asus_tufrx6800xto16g.html",
+          "timestamp": null,
+          "description": "Asus TUFRX6800XTO16G Tuf Gaming Amd Rx 6800 Xt Pcie 4.0 16gb Gddr6 Hdmi 2.1 shipped for $856.95. Free shipping! Secure purchasing, 30 day return policy.",
+          "thumbnail": {
+            "url": "http://www.shopblt.com/images/mfglogos/asus_none.gif",
+            "width": 125,
+            "height": 25
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782385453558136854",
+      "type": "Default",
+      "timestamp": "2020-11-28T23:20:28.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Tu Madre I found more\nhttps://www.shopblt.com/item/asus-tuf-gaming-amd-radeon-rx/asus_tufrx6800o16ggam.html\nhttps://www.shopblt.com/item/asus-rog-strix-amd-radeon-rx/asus_rogstrixrx6800o16.html",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783484102879871007",
+      "type": "Default",
+      "timestamp": "2020-12-02T00:06:06.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS Radeon RX 6800 XT RX6800XT-16G Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6800-xt-rx6800xt-16g/p/N82E16814126472",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$689.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783720638157815879",
+      "type": "Default",
+      "timestamp": "2020-12-02T15:46:00.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt https://www.bestbuy.com/site/xfx-merc-319-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6442585.p?skuId=6442585",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Merc 319 AMD Radeon™ RX 6800XT 16GB GDDR6 PCI Express 4.0 Gamin...",
+          "url": "https://www.bestbuy.com/site/xfx-merc-319-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6442585.p?skuId=6442585",
+          "timestamp": null,
+          "description": "Shop XFX Merc 319 AMD Radeon™ RX 6800XT 16GB GDDR6 PCI Express 4.0 Gaming Graphics Card Black at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6442/6442585_sd.jpg",
+            "width": 3000,
+            "height": 2050
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783720722203148319",
+      "type": "Default",
+      "timestamp": "2020-12-02T15:46:21+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt https://geni.us/4RCkL8N",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX AMD Radeon™ RX 6800XT 16GB GDDR6 PCI Express 4.0 Gaming Graphic...",
+          "url": "https://geni.us/4RCkL8N",
+          "timestamp": null,
+          "description": "Shop XFX AMD Radeon™ RX 6800XT 16GB GDDR6 PCI Express 4.0 Gaming Graphics Card Black at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6441/6441226_sd.jpg",
+            "width": 1000,
+            "height": 484
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783721403773616128",
+      "type": "Default",
+      "timestamp": "2020-12-02T15:49:03.499+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[AMD 6800XT - Best Buy](https://www.bestbuy.com/site/searchpage.jsp?st=6800+xt&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys) was updated.",
+      "author": {
+        "id": "778456442108641280",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778456442108641280/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "Price Match Guarantee\n$649.99Your price for this item is $649.99\n~~Coming Soon~~",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-12-02T15:49:03.097+00:00",
+          "description": "Price Match Guarantee\n$649.99Your price for this item is $649.99\n** **See Details** ** [ **See Details** ](https://www.bestbuy.com/site/xfx-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6441226.p?skuId=6441226)",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783722058705141810",
+      "type": "Default",
+      "timestamp": "2020-12-02T15:51:39.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[AMD 6800XT - Best Buy](https://www.bestbuy.com/site/searchpage.jsp?st=6800+xt&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys) was updated.",
+      "author": {
+        "id": "778456442108641280",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778456442108641280/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "Price Match Guarantee\n$649.99Your price for this item is $649.99\n~~Sold Out~~",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-12-02T15:51:39.528+00:00",
+          "description": "Price Match Guarantee\n$649.99Your price for this item is $649.99\n** **See Details** ** [ **See Details** ](https://www.bestbuy.com/site/xfx-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6441226.p?skuId=6441226)",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783785001799516190",
+      "type": "Default",
+      "timestamp": "2020-12-02T20:01:46.45+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$779.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783785811706642463",
+      "type": "Default",
+      "timestamp": "2020-12-02T20:04:59.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-01-20G SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-01-20g/p/N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$839.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784127458458730506",
+      "type": "Default",
+      "timestamp": "2020-12-03T18:42:34.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$779.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784215541929476096",
+      "type": "Default",
+      "timestamp": "2020-12-04T00:32:35.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6800-xt-axrx-6800xt-16gbd6-2dhce-oc/p/N82E16814131767",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$809.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784551471475064832",
+      "type": "Default",
+      "timestamp": "2020-12-04T22:47:27.061+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6800-xt-axrx-6800xt-16gbd6-2dhce-oc/p/N82E16814131767",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$809.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785657570588622879",
+      "type": "Default",
+      "timestamp": "2020-12-08T00:02:41.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG STRIX Radeon RX 6800 XT ROG-STRIX-LC-RX6800XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6800-xt-rog-strix-lc-rx6800xt-o16g-gaming/p/N82E16814126475",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$909.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785873740667813909",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:21:40.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[AMD Radeon™ RX 6800 XT Graphics | AMD @Unknown](https://www.amd.com/en/direct-buy/5458372800/us) was updated.",
+      "author": {
+        "id": "778456442108641280",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778456442108641280/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Radeon™ RX 6800 XT Graphics\nAMD Radeon™ RX 6800 XT\nCompute Units: 72\nRay Accelerators: 72\nGame Frequency: Up to 2015 MHz\nInfinity Cache: 128 MB\nMax Memory Size: 16 GB\nMemory Type: GDDR6\n[Full Specifications](https://www.amd.com/en/direct-buy/5458372800/us)\n$649.00 ~~Out of stock~~",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2020-12-08T14:21:39.492+00:00",
+          "description": "AMD Radeon™ RX 6800 XT Graphics\nAMD Radeon™ RX 6800 XT\nCompute Units: 72\nRay Accelerators: 72\nGame Frequency: Up to 2015 MHz\nInfinity Cache: 128 MB\nMax Memory Size: 16 GB\nMemory Type: GDDR6\n[Full Specifications](https://www.amd.com/en/direct-buy/5458372800/us)\n$649.00 **\nAdd to cart\n**",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785873840303505408",
+      "type": "Default",
+      "timestamp": "2020-12-08T14:22:04.358+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785890897257562139",
+      "type": "Default",
+      "timestamp": "2020-12-08T15:29:51.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/xfx-merc-319-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6442585.p?skuId=6442585",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Merc 319 AMD Radeon™ RX 6800XT 16GB GDDR6 PCI Express 4.0 Gamin...",
+          "url": "https://www.bestbuy.com/site/xfx-merc-319-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6442585.p?skuId=6442585",
+          "timestamp": null,
+          "description": "Shop XFX Merc 319 AMD Radeon™ RX 6800XT 16GB GDDR6 PCI Express 4.0 Gaming Graphics Card Black at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6442/6442585_sd.jpg",
+            "width": 3000,
+            "height": 2050
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785890913737375804",
+      "type": "Default",
+      "timestamp": "2020-12-08T15:29:54.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786647494406307881",
+      "type": "Default",
+      "timestamp": "2020-12-10T17:36:17.87+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG STRIX Radeon RX 6800 XT ROG-STRIX-LC-RX6800XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6800-xt-rog-strix-lc-rx6800xt-o16g-gaming/p/N82E16814126475",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$909.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786659215397486632",
+      "type": "Default",
+      "timestamp": "2020-12-10T18:22:52.372+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$779.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787107076731568129",
+      "type": "Default",
+      "timestamp": "2020-12-12T00:02:30.835+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF Gaming Radeon RX 6800 XT TUF-RX6800XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6800-xt-tuf-rx6800xt-o16g-gaming/p/N82E16814126476",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$819.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787874196444676168",
+      "type": "Default",
+      "timestamp": "2020-12-14T02:50:46.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bacon lettuce tomato at it again, this time with a 6800xt pre order, 89 ordered as of this post. @alert-rx-6800xt https://www.shopblt.com/item/sapphire-technology-11304-02-20g-sap-nitro-rx/u150_113040220g.html",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sapphire Technology 11304-02-20G Sap Nitro+ Rx 6800 Xt Oc 16g Ddr6 ...",
+          "url": "https://www.shopblt.com/item/sapphire-technology-11304-02-20g-sap-nitro-rx/u150_113040220g.html",
+          "timestamp": null,
+          "description": "Sapphire Technology 11304-02-20G 113040220g Sap Nitro+ Rx 6800 Xt Oc 16g Ddr6 Hdmi Triple Dp shipped for $830.54. Free shipping! Secure purchasing, 30 day return policy.",
+          "thumbnail": {
+            "url": "http://www.shopblt.com/images/mfglogos/u150_none.gif",
+            "width": 150,
+            "height": 90
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787874627795943424",
+      "type": "Default",
+      "timestamp": "2020-12-14T02:52:29.269+00:00",
+      "timestampEdited": "2020-12-14T02:53:01.063+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~@alert-rx-6800xt https://www.neweggbusiness.com/Product/Product.aspx?Item=9B-14-202-392~~ this is a 6800 -_-",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788167163584053318",
+      "type": "Default",
+      "timestamp": "2020-12-14T22:14:55.236+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6800-xt-axrx-6800xt-16gbd6-2dhce-oc/p/N82E16814131767",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$809.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788572818618318848",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:06:50.933+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Taichi Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT TCX 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6800xt-tcx-16go/p/N82E16814930050",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$839.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788572819541327922",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:06:51.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$779.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788572824453120030",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:06:52.324+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-01-20G SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-01-20g/p/N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$839.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788573184756678706",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:08:18.227+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Phantom Gaming D Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT PGD 16GO)",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814930049",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$799.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788933509091688518",
+      "type": "Default",
+      "timestamp": "2020-12-17T01:00:06.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 RX 6800 XT Black Edition Gaming Graphics Card with 16GB GDDR6, HDMI 2.1, 2 x DP, USB-C, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150844",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$799.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788933659129413693",
+      "type": "Default",
+      "timestamp": "2020-12-17T01:00:42.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$779.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788933747525156866",
+      "type": "Default",
+      "timestamp": "2020-12-17T01:01:03.09+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-01-20G SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-01-20g/p/N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$839.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789096781081739285",
+      "type": "Default",
+      "timestamp": "2020-12-17T11:48:53.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Phantom Gaming D Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT PGD 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6800xt-pgd-16go/p/N82E16814930049",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$809.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789295914980081665",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:00:10.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Taichi Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT TCX 16GO)",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814930050",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$829.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296040078606356",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:00:40.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$779.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296043413602324",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:00:41.161+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Phantom Gaming D Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT PGD 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6800xt-pgd-16go/p/N82E16814930049",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$809.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789296044496257055",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:00:41.419+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 11304-01-20G SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-01-20g/p/N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$839.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789299742110384198",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:15:22.999+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF Gaming Radeon RX 6800 XT DirectX 12 Ultimate TUF-RX6800XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6800-xt-tuf-rx6800xt-o16g-gaming/p/N82E16814126476",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$819.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789300381783293962",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:17:55.509+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS Radeon RX 6800 XT DirectX 12 Ultimate RX6800XT-16G Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6800-xt-rx6800xt-16g/p/N82E16814126472",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$689.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789304318989434950",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:33:34.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE Radeon RX 6800 XT DirectX 12 Ultimate GV-R68XT-16GC-B Video Card",
+          "url": "https://www.newegg.com/gigabyte-radeon-rx-6800-xt-gv-r68xt-16gc-b/p/N82E16814932373",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$809.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789406578058854421",
+      "type": "Default",
+      "timestamp": "2020-12-18T08:19:54.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814131767",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$799.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789658507456282675",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:00:59.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF Gaming Radeon RX 6800 XT DirectX 12 Ultimate TUF-RX6800XT-O16G-GAMING Video Card",
+          "url": "https://www.newegg.com/asus-radeon-rx-6800-xt-tuf-rx6800xt-o16g-gaming/p/N82E16814126476",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$819.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789659812152606740",
+      "type": "Default",
+      "timestamp": "2020-12-19T01:06:10.387+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 RX 6800 XT Black Edition Gaming Graphics Card with 16GB GDDR6, HDMI 2.1, 2 x DP, USB-C, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150844",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$799.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790976414471290880",
+      "type": "Default",
+      "timestamp": "2020-12-22T16:17:52.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bestbuy.com/site/xfx-merc-319-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6442585.p?skuId=6442585",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Merc 319 AMD Radeon™ RX 6800XT 16GB GDDR6 PCI Express 4.0 Gamin...",
+          "url": "https://www.bestbuy.com/site/xfx-merc-319-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6442585.p?skuId=6442585",
+          "timestamp": null,
+          "description": "Shop XFX Merc 319 AMD Radeon™ RX 6800XT 16GB GDDR6 PCI Express 4.0 Gaming Graphics Card Black at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+          "thumbnail": {
+            "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6442/6442585_sd.jpg",
+            "width": 3000,
+            "height": 2050
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "757357452415991878",
+            "name": "MLADY",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/757357452415991878.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790976433564155904",
+      "type": "Default",
+      "timestamp": "2020-12-22T16:17:57.393+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "759312325852659753",
+            "name": "WTFF",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/759312325852659753.png"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "756840017363730502",
+            "name": "Booty",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/756840017363730502.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f629.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "757357452298813521",
+            "name": "PEPECLOWNER",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/757357452298813521.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "783354522558660648",
+            "name": "rt",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/783354522558660648.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "771439784258043976",
+            "name": "PauseChamp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/771439784258043976.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64a.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "695378207410749510",
+            "name": "toiletpaper",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/695378207410749510.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "403726748681895936",
+            "name": "FeelsGoodMan",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/403726748681895936.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "782365221070438436",
+            "name": "Clap",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/782365221070438436.gif"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "791100412504834109",
+      "type": "Default",
+      "timestamp": "2020-12-23T00:30:36.276+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Phantom Gaming D Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT PGD 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6800xt-pgd-16go/p/N82E16814930049",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$809.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462742006431775",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:22.361+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG STRIX Radeon RX 6800 XT DirectX 12 Ultimate ROG-STRIX-LC-RX6800XT-O16G-GAMING 16GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready CrossFireX Support Video Card",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814126475",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$899.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462801126064171",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:36.456+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 RX 6800 XT Black Edition Gaming Graphics Card with 16GB GDDR6, HDMI 2.1, 2 x DP, USB-C, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150844",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$799.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462873623953430",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:53.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Phantom Gaming D Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT PGD 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6800xt-pgd-16go/p/N82E16814930049",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$809.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791462875268907038",
+      "type": "Default",
+      "timestamp": "2020-12-24T00:30:54.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Taichi Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT TCX 16GO)",
+          "url": "https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6800xt-tcx-16go/p/N82E16814930050",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$839.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793274973874552833",
+      "type": "Default",
+      "timestamp": "2020-12-29T00:31:32.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 RX 6800 XT Black Edition Gaming Graphics Card with 16GB GDDR6, HDMI 2.1, 2 x DP, USB-C, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150844",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$799.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793275007740280862",
+      "type": "Default",
+      "timestamp": "2020-12-29T00:31:40.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814131767",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$829.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793637810900828190",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:33:19.196+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-01-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$849.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793638222953316392",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:34:57.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 RX 6800 XT Black Edition Gaming Graphics Card with 16GB GDDR6, HDMI 2.1, 2 x DP, USB-C, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150844",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$799.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793638377202122782",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:35:34.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-02-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$819.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793639061453013063",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:38:17.351+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814131767",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$829.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793640964866179102",
+      "type": "Default",
+      "timestamp": "2020-12-30T00:45:51.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Taichi Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT TCX 16GO)",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814930050",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$829.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794009776894902314",
+      "type": "Default",
+      "timestamp": "2020-12-31T01:11:22.8+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Devil Limited Edition AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814131767",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$829.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795811655975960616",
+      "type": "Default",
+      "timestamp": "2021-01-05T00:31:24.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-02-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$829.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795812095420530729",
+      "type": "Default",
+      "timestamp": "2021-01-05T00:33:09.022+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-01-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$849.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795812126316298260",
+      "type": "Default",
+      "timestamp": "2021-01-05T00:33:16.388+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS TUF Gaming Radeon RX 6800 XT DirectX 12 Ultimate TUF-RX6800XT-O16G-GAMING 16GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready CrossFireX Support Video Card",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814126476",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$819.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796052087766122506",
+      "type": "Default",
+      "timestamp": "2021-01-05T16:26:47.656+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[AMD 6800XT - Best Buy @alert-rx-6800xt](https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&qp=currentprice_facet%3DPrice~0%20to%201500&sc=Global&st=6800%20xt&type=page&usc=All%20Categories) was updated.",
+      "author": {
+        "id": "778456442108641280",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778456442108641280/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "Price Match Guarantee\n$799.99Your price for this item is $799.99\n~~Sold Out~~ \nPrice Match Guarantee\n$649.99Your price for this item is $649.99\nSold Out",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2021-01-05T16:26:47.398+00:00",
+          "description": "Price Match Guarantee\n$799.99Your price for this item is $799.99\n** **See Details** ** [ **See Details** ](https://www.bestbuy.com/site/xfx-merc-319-amd-radeon-rx-6800xt-16gb-gddr6-pci-express-4-0-gaming-graphics-card-black/6442585.p?skuId=6442585)\nPrice Match Guarantee\n$649.99Your price for this item is $649.99\nSold Out",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796536432025010176",
+      "type": "Default",
+      "timestamp": "2021-01-07T00:31:24.326+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-02-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$829.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796536442963755008",
+      "type": "Default",
+      "timestamp": "2021-01-07T00:31:26.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-01-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$849.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796777243450933265",
+      "type": "Default",
+      "timestamp": "2021-01-07T16:28:18.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[AMD Radeon™ RX 6800 XT Graphics | AMD @Unknown](https://www.amd.com/en/direct-buy/5458372800/us) was updated.",
+      "author": {
+        "id": "778456442108641280",
+        "name": "Distill.io",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/778456442108641280/9968693d3e7ff48f297bc2bb9c0d134b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Old Content",
+          "url": null,
+          "timestamp": null,
+          "description": "AMD Radeon™ RX 6800 XT Graphics\nAMD Radeon™ RX 6800 XT\nCompute Units: 72\nRay Accelerators: 72\nGame Frequency: Up to 2015 MHz\nInfinity Cache: 128 MB\nMax Memory Size: 16 GB\nMemory Type: GDDR6\n[Full Specifications](https://www.amd.com/en/direct-buy/5458372800/us)\n$649.00 ~~Out of stock~~",
+          "color": "#FF0000",
+          "fields": []
+        },
+        {
+          "title": "New Content",
+          "url": null,
+          "timestamp": "2021-01-07T16:28:17.953+00:00",
+          "description": "AMD Radeon™ RX 6800 XT Graphics\nAMD Radeon™ RX 6800 XT\nCompute Units: 72\nRay Accelerators: 72\nGame Frequency: Up to 2015 MHz\nInfinity Cache: 128 MB\nMax Memory Size: 16 GB\nMemory Type: GDDR6\n[Full Specifications](https://www.amd.com/en/direct-buy/5458372800/us)\n$649.00 **\nAdd to cart\n**",
+          "color": "#008000",
+          "footer": {
+            "text": "Distill.io",
+            "iconUrl": "https://app.distill.io/static_files/v1/img/distill_48.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796853681047076865",
+      "type": "Default",
+      "timestamp": "2021-01-07T21:32:02.387+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt https://www.amazon.com/gp/offer-listing/B08P2BQRLW",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796899185864736778",
+      "type": "Default",
+      "timestamp": "2021-01-08T00:32:51.581+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASUS ROG STRIX Radeon RX 6800 XT DirectX 12 Ultimate ROG-STRIX-LC-RX6800XT-O16G-GAMING 16GB 256-Bit GDDR6 PCI Express 4.0 HDCP Ready CrossFireX Support Video Card",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814126475",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1079.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796899442430967878",
+      "type": "Default",
+      "timestamp": "2021-01-08T00:33:52.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-01-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$849.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798549767931559966",
+      "type": "Default",
+      "timestamp": "2021-01-12T13:51:41.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt Newegg taking more ppl to the cleaners with the ASRock Taichi - $940 @ ebay. https://www.ebay.com/itm/ASRock-Radeon-RX-6800-XT-Taichi-Gaming-Graphics-Card-with-16GB-GDDR6-AMD-RDNA-2/303844307820",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Taichi Gaming Graphics Card with 16GB GDDR...",
+          "url": "https://www.ebay.com/itm/ASRock-Radeon-RX-6800-XT-Taichi-Gaming-Graphics-Card-with-16GB-GDDR6-AMD-RDNA-2/303844307820",
+          "timestamp": null,
+          "description": "Radeon RX 6800 XT. AMD Radeon RX 6000 Series. 1 x Sticker, 1 x Coaster, 1 x Door Hanger, 1 x Quick Installation Guide, 1 x Video Card. 2 x DisplayPort 1.4 with DSC. Slot Width. 12.99\" x 5.51\". DirectX 12.",
+          "thumbnail": {
+            "url": "https://i.ebayimg.com/images/g/cGQAAOSwAS5f~V9n/s-l400.jpg",
+            "width": 400,
+            "height": 300
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798710722896855080",
+      "type": "Default",
+      "timestamp": "2021-01-13T00:31:15.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6, AMD RDNA2 (RX6900XT PGD 16GO)",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814930052",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1269.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798717783063265290",
+      "type": "Default",
+      "timestamp": "2021-01-13T00:59:18.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6800 XT Taichi Gaming Graphics Card with 16GB GDDR6, AMD RDNA 2 (RX6800XT TCX 16GO)",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814930050",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$939.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799073527579148298",
+      "type": "Default",
+      "timestamp": "2021-01-14T00:32:55.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 RX 6800 XT Black Edition Gaming Graphics Card with 16GB GDDR6, HDMI 2.1, 2 x DP, USB-C, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150844",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1049.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799724998184534075",
+      "type": "Default",
+      "timestamp": "2021-01-15T19:41:37.739+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt https://www.neweggbusiness.com/product/product.aspx?item=9b-14-932-395",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799740720075243531",
+      "type": "Default",
+      "timestamp": "2021-01-15T20:44:06.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt https://www.amazon.com/gp/offer-listing/B08P3ZN62G?ref_=ast_sto_dp",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799753701266686030",
+      "type": "Default",
+      "timestamp": "2021-01-15T21:35:41.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt back in stock https://www.amazon.com/gp/offer-listing/B08P3ZN62G?ref_=ast_sto_dp",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799799592275017749",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:38:02.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE Radeon RX 6800 XT GAMING OC 16G Graphics Card WINDFORCE 3X Cooling System 16GB 256-bit GDDR6 GV-R68XTGAMING OC-16GD",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4214891&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG5**\n\n**PRICE**\n$907.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhgLw6V7LzGstiICMRKhJHAtPGWzmwi0SDwt2ee=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799799641024626718",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:38:13.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-02-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$999.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799800064201195550",
+      "type": "Default",
+      "timestamp": "2021-01-16T00:39:54.872+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 RX 6800 XT Black Edition Gaming Graphics Card with 16GB GDDR6, HDMI 2.1, 2 x DP, USB-C, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150844",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1049.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801240223055872021",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:02:35.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ASRock Radeon RX 6900 XT PHANTOM GAMING D Graphics Card 16GB GDDR6, AMD RDNA2 (RX6900XT PGD 16GO)",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814930052",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1269.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801240277565177897",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:02:48.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-02-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$999.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801242172342140958",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:10:20.246+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "XFX Speedster MERC319 RX 6800 XT Black Edition Gaming Graphics Card with 16GB GDDR6, HDMI 2.1, 2 x DP, USB-C, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814150844",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1049.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801242549570240513",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:11:50.184+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-01-20G 16GB 256-Bit GDDR6 PCI Express 4.0 ATX SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/p/pl?d=N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG3**\n\n**PRICE**\n$1029.99",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801244858341654529",
+      "type": "Default",
+      "timestamp": "2021-01-20T00:21:00.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GIGABYTE Radeon RX 6800 XT GAMING OC 16G Graphics Card WINDFORCE 3X Cooling System 16GB 256-bit GDDR6 GV-R68XTGAMING OC-16GD",
+          "url": "https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4214891&quicklink=true",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG5**\n\n**PRICE**\n$907.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhgLw6V7LzGstiICMRKhJHAtPGWzmwi0SDwt2ee=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801845707925225473",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:08:34.342+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amd.com/en/direct-buy/us",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801845720369987636",
+      "type": "Default",
+      "timestamp": "2021-01-21T16:08:37.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "166064409578307585",
+        "name": "Tu Madre",
+        "discriminator": "1337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803339434917363773",
+      "type": "Default",
+      "timestamp": "2021-01-25T19:04:06.609+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-25T19:04:06.452+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803375300285169664",
+      "type": "Default",
+      "timestamp": "2021-01-25T21:26:37.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt https://www.neweggbusiness.com/product/product.aspx?item=9b-14-126-475",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD11",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f911.png"
+          },
+          "count": 30
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "803391130724728853",
+      "type": "Default",
+      "timestamp": "2021-01-25T22:29:31.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-25T22:29:31.543+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803399044323213332",
+      "type": "Default",
+      "timestamp": "2021-01-25T23:00:58.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Dragon AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6800-xt-axrx-6800xt-16gbd6-3dhr-oc/p/N82E16814131769",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1119.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803449134052016160",
+      "type": "Default",
+      "timestamp": "2021-01-26T02:20:00.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T02:20:00.739+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803468072400453632",
+      "type": "Default",
+      "timestamp": "2021-01-26T03:35:16.175+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T03:35:15.962+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803482098010816542",
+      "type": "Default",
+      "timestamp": "2021-01-26T04:31:00.141+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T04:30:59.9+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803491136906723328",
+      "type": "Default",
+      "timestamp": "2021-01-26T05:06:55.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T05:06:54.949+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803506010395901953",
+      "type": "Default",
+      "timestamp": "2021-01-26T06:06:01.298+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T06:06:01.09+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803514367941017602",
+      "type": "Default",
+      "timestamp": "2021-01-26T06:39:13.892+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T06:39:13.71+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803539154792349696",
+      "type": "Default",
+      "timestamp": "2021-01-26T08:17:43.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T08:17:43.252+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "sapphire\u00A0rx6800xt\u00A0nitro+",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NXXT7WN",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803617429950693397",
+      "type": "Default",
+      "timestamp": "2021-01-26T13:28:45.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T13:28:45.602+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "sapphire\u00A0rx6800xt\u00A0nitro+",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NXXT7WN",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803620085884911617",
+      "type": "Default",
+      "timestamp": "2021-01-26T13:39:19.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-26T13:39:18.875+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "sapphire\u00A0rx6800xt\u00A0nitro+",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NXXT7WN",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804057642007396393",
+      "type": "Default",
+      "timestamp": "2021-01-27T18:38:00.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt UK PEEPS:\n6900xt asrock https://www.overclockers.co.uk/asrock-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-00f-ak.html\n6900xt asus https://www.overclockers.co.uk/asus-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-457-as.html\n6900xt saphire https://www.overclockers.co.uk/sapphire-radeon-rx-6900-xt-mba-16gb-gddr6-pci-express-graphics-card-gx-39e-sp.html\n6900xt power colour devil https://www.overclockers.co.uk/powercolor-radeon-6900-xt-red-devil-16gb-gddr6-pci-express-graphics-card-gx-1a2-pc.html\n6800 saphire https://www.overclockers.co.uk/sapphire-radeon-rx-6800-pulse-16gb-gddr6-pci-express-graphics-card-gx-39d-sp.html\n6800 saphire OC https://www.overclockers.co.uk/sapphire-radeon-rx-6800-nitro-oc-16gb-gddr6-pci-express-graphics-card-gx-39b-sp.html",
+      "author": {
+        "id": "756705420051087516",
+        "name": "Joe Zotac Experience",
+        "discriminator": "3040",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/756705420051087516/a_00036a599b4436a0c13f3199d1316682.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804121219594715166",
+      "type": "Default",
+      "timestamp": "2021-01-27T22:50:38.601+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Dragon AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6800-xt-axrx-6800xt-16gbd6-3dhr-oc/p/N82E16814131769",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1119.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804463807618613309",
+      "type": "Default",
+      "timestamp": "2021-01-28T21:31:57.951+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804463809040351260",
+      "type": "Default",
+      "timestamp": "2021-01-28T21:31:58.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-01-20G SE Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-01-20g/p/N82E16814202390",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1039.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804464525855948800",
+      "type": "Default",
+      "timestamp": "2021-01-28T21:34:49.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MSI Radeon RX 6800 XT DirectX 12 Ultimate RX 6800 XT GAMING X TRIO 16G Video Card",
+          "url": "https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-gaming-x-trio-16g/p/N82E16814137621",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$859.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804484656878714900",
+      "type": "Default",
+      "timestamp": "2021-01-28T22:54:48.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor Red Dragon AMD Radeon RX 6800 XT Gaming Graphics Card with 16GB GDDR6 Memory, Powered by AMD RDNA 2, Raytracing, PCI Express 4.0, HDMI 2.1, AMD Infinity Cache",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6800-xt-axrx-6800xt-16gbd6-3dhr-oc/p/N82E16814131769",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1119.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804520791391469598",
+      "type": "Default",
+      "timestamp": "2021-01-29T01:18:23.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PowerColor RED DEVIL Radeon RX 6800 XT DirectX 12 Ultimate AXRX 6800XT 16GBD6-3DHE/OC Video Card",
+          "url": "https://www.newegg.com/powercolor-radeon-rx-6800-xt-axrx-6800xt-16gbd6-3dhe-oc/p/N82E16814131777",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1159.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "804191803993096203",
+            "name": "henry",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/804191803993096203.png"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "804779717558927424",
+      "type": "Default",
+      "timestamp": "2021-01-29T18:27:16.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804845807730819092",
+      "type": "Default",
+      "timestamp": "2021-01-29T22:49:53.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-29T22:49:53.621+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804879643994882058",
+      "type": "Default",
+      "timestamp": "2021-01-30T01:04:21.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-30T01:04:20.873+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804899510472015882",
+      "type": "Default",
+      "timestamp": "2021-01-30T02:23:17.606+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-30T02:23:17.445+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805104636855320627",
+      "type": "Default",
+      "timestamp": "2021-01-30T15:58:23.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-30T15:58:23.346+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805194648779489280",
+      "type": "Default",
+      "timestamp": "2021-01-30T21:56:04.062+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-30T21:56:03.895+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805312570713833483",
+      "type": "Default",
+      "timestamp": "2021-01-31T05:44:38.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "778456442108641280",
+        "name": "6800XT Bot",
+        "discriminator": "0000",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2021-01-31T05:44:38.666+00:00",
+          "description": "",
+          "footer": {
+            "text": "<3 Tu Madre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": [
+            {
+              "name": "GO GET IT BOIS",
+              "value": "xfx\u00A0rx6800xt\u00A0merc",
+              "isInline": false
+            },
+            {
+              "name": "Store",
+              "value": "amazon",
+              "isInline": false
+            },
+            {
+              "name": "Price",
+              "value": "$1049.99",
+              "isInline": false
+            },
+            {
+              "name": "URL",
+              "value": "https://nerdspeak.net/B08NX14LV1",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805928812939706398",
+      "type": "Default",
+      "timestamp": "2021-02-01T22:33:22.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@alert-rx-6800xt",
+      "author": {
+        "id": "762390420558577675",
+        "name": "!StonksBot",
+        "discriminator": "6485",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762390420558577675/168d9095ffaf0ee9cc5c32214903fbbc.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SAPPHIRE NITRO+ Radeon RX 6800 XT DirectX 12 Ultimate 11304-02-20G Gaming Graphics Card, AMD RDNA 2",
+          "url": "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391",
+          "timestamp": null,
+          "description": "**BUY NOW @ NEWEGG**\n\n**PRICE**\n$1009.98",
+          "color": "#00FF33",
+          "thumbnail": {
+            "url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+            "width": 400,
+            "height": 400
+          },
+          "footer": {
+            "text": "<3 TuMadre",
+            "iconUrl": "https://cdn.discordapp.com/avatars/166064409578307585/84fa7118f057d14365b8465d8860dc13.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 117
+}
